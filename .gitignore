@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+/.venv/
+/dist/
+/.claude/
+/chitresh_consultation.json
+/sample_consultation.json
+/kundli_chitresh.pdf

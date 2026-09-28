@@ -1,0 +1,12 @@
+{
+  "_about": "Income and cash flow. BPHS 11.12 gives the eleventh house aya, income.",
+  "domain": {
+    "activation": {
+      "STRONGLY_ACTIVE": "Matters of income are strongly activated in the period examined, with indications in the birth chart, the running dasha and current transits.",
+      "ACTIVE": "Matters of income are active in the period examined, indicated in the birth chart and activated by the running dasha.",
+      "BACKGROUND": "The birth chart carries a standing indication about income that nothing in the current period is activating.",
+      "MIXED": "Matters of income are active in the period examined, and the indications point in both directions.",
+      "INACTIVE": "No indication about income is admitted under the current methodology profile."
+    }
+  }
+}

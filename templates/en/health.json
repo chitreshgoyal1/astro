@@ -1,0 +1,12 @@
+{
+  "_about": "Health. BPHS 11.2 lagna deha/balabala, 11.7 sixth vrana. Part 22 limits the language here.",
+  "domain": {
+    "activation": {
+      "STRONGLY_ACTIVE": "Factors traditionally associated with vitality are strongly activated in the period examined. This is a calculated indication about a general life area and is not a medical statement.",
+      "ACTIVE": "Factors traditionally associated with vitality are active in the period examined. This is a calculated indication about a general life area and is not a medical statement.",
+      "BACKGROUND": "The birth chart carries standing factors associated with vitality that nothing in the current period is activating.",
+      "MIXED": "Factors traditionally associated with vitality are active in the period examined, and they point in both directions.",
+      "INACTIVE": "No factor associated with vitality is admitted under the current methodology profile."
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_about": "Land, house and vehicles. BPHS 11.5 gives the fourth house ksetra, grha, vahana.",
+  "domain": {
+    "activation": {
+      "STRONGLY_ACTIVE": "Matters of property and fixed assets are strongly activated in the period examined, with indications in the birth chart, the running dasha and current transits.",
+      "ACTIVE": "Matters of property and fixed assets are active in the period examined, indicated in the birth chart and activated by the running dasha.",
+      "BACKGROUND": "The birth chart carries a standing indication about property that nothing in the current period is activating.",
+      "MIXED": "Matters of property and fixed assets are active in the period examined, and the indications point in both directions.",
+      "INACTIVE": "No indication about property is admitted under the current methodology profile."
+    }
+  }
+}

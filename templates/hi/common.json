@@ -1,0 +1,262 @@
+{
+  "_about": [
+    "Hindi template set (V1.7 Part 24).",
+    "",
+    "A REAL SECOND LOCALE, NOT PLACEHOLDER ARCHITECTURE.",
+    "",
+    "Every entry is a complete Hindi sentence with named slots. Nothing is",
+    "assembled from fragments, because Hindi puts the verb last and the",
+    "postposition after the noun: a sentence built by concatenating",
+    "'the lord of the' + house + ' is ' + dignity cannot be reordered into",
+    "Hindi by any translator, whatever words are substituted.",
+    "",
+    "WHAT HINDI FORCED OUT OF PYTHON AND INTO THIS FILE",
+    "",
+    "  ordinals        Hindi ordinals are distinct words and the forms used",
+    "                  here are oblique, because every one of them is",
+    "                  followed by a postposition or a genitive.",
+    "  house_name      'saatveN bhaav', numeral before noun with no suffix.",
+    "  sentence_end    The danda, not the full stop.",
+    "  capitalise      Devanagari has no letter case.",
+    "  planets/signs   Devanagari spellings of the same bodies.",
+    "  terms           The short words that arrive as template ARGUMENTS:",
+    "                  dignities, dasha levels, profile names. V1.6 passed",
+    "                  these in as English literals, which produced Hindi",
+    "                  sentences with English nouns inside them.",
+    "",
+    "One semantic state resolves to exactly one sentence here too. No",
+    "alternative phrasings, no random selection: identical input must give",
+    "byte-identical Hindi."
+  ],
+  "grammar": {
+    "list_two": "और",
+    "list_last": "तथा",
+    "list_separator": ", ",
+    "sentence_end": "।",
+    "sentence_terminators": "।?!:",
+    "capitalise": false,
+    "house_name": "{ordinal} भाव",
+    "ordinals": [
+      "पहले",
+      "दूसरे",
+      "तीसरे",
+      "चौथे",
+      "पाँचवें",
+      "छठे",
+      "सातवें",
+      "आठवें",
+      "नौवें",
+      "दसवें",
+      "ग्यारहवें",
+      "बारहवें"
+    ],
+    "months": [
+      "जनवरी",
+      "फ़रवरी",
+      "मार्च",
+      "अप्रैल",
+      "मई",
+      "जून",
+      "जुलाई",
+      "अगस्त",
+      "सितम्बर",
+      "अक्टूबर",
+      "नवम्बर",
+      "दिसम्बर"
+    ],
+    "planets": {
+      "Surya": "सूर्य",
+      "Chandra": "चन्द्र",
+      "Mangal": "मंगल",
+      "Budha": "बुध",
+      "Guru": "गुरु",
+      "Shukra": "शुक्र",
+      "Shani": "शनि",
+      "Rahu": "राहु",
+      "Ketu": "केतु",
+      "Lagna": "लग्न"
+    },
+    "signs": {
+      "Mesha": "मेष",
+      "Vrishabha": "वृषभ",
+      "Mithuna": "मिथुन",
+      "Karka": "कर्क",
+      "Simha": "सिंह",
+      "Kanya": "कन्या",
+      "Tula": "तुला",
+      "Vrishchika": "वृश्चिक",
+      "Dhanu": "धनु",
+      "Makara": "मकर",
+      "Kumbha": "कुम्भ",
+      "Meena": "मीन"
+    },
+    "domains": {
+      "CAREER": "आजीविका",
+      "MARRIAGE": "विवाह",
+      "CHILDREN": "सन्तान",
+      "HEALTH": "स्वास्थ्य",
+      "WEALTH": "धन",
+      "FINANCE": "आय-व्यय",
+      "EDUCATION": "विद्या",
+      "PROPERTY": "भूमि और भवन",
+      "TRAVEL": "यात्रा",
+      "FOREIGN_RESIDENCE": "विदेश-वास",
+      "LITIGATION": "विवाद और मुकदमा",
+      "SPIRITUALITY": "धर्म और साधना",
+      "SIBLINGS": "भाई-बहन",
+      "FAMILY": "कुटुम्ब",
+      "BUSINESS": "व्यापार",
+      "LONGEVITY": "आयु",
+      "RELATIONSHIPS": "सम्बन्ध"
+    },
+    "terms": {
+      "dignity": {
+        "Parama Uchcha": "परम उच्च",
+        "Uchcha": "उच्च",
+        "Neecha": "नीच",
+        "Moolatrikona": "मूलत्रिकोण",
+        "Swa": "स्वक्षेत्री",
+        "Neutral": "सम",
+        "dignified": "बलवान",
+        "debilitated": "नीच"
+      },
+      "state": {
+        "debilitated": "नीच राशि में",
+        "combust": "अस्त",
+        "afflicted": "पीड़ित"
+      },
+      "dasha_level": {
+        "mahadasha": "महादशा",
+        "antardasha": "अन्तर्दशा",
+        "pratyantardasha": "प्रत्यन्तर्दशा",
+        "period": "दशा"
+      },
+      "profile": {
+        "strict": "कठोर",
+        "standard": "मानक",
+        "experimental": "प्रायोगिक"
+      },
+      "yoga_status": {
+        "PRESENT_AND_STRONG": "उपस्थित और बलवान",
+        "PRESENT": "उपस्थित",
+        "PRESENT_BUT_WEAK": "उपस्थित किन्तु निर्बल",
+        "CANCELLED": "भंग",
+        "ABSENT": "अनुपस्थित"
+      },
+      "placeholder": {
+        "its_sign": "अपनी राशि",
+        "relevant_houses": "सम्बन्धित भावों",
+        "a_natal_point": "जन्मकुण्डली के एक बिन्दु"
+      }
+    }
+  },
+  "appendix": {
+    "heading": "प्रयुक्त स्रोत तथा नियम",
+    "source_row": "{citation} — {authority}, प्रमाणन-स्थिति {status}।",
+    "rule_row": "{rule_id}: {validation_status}, भविष्यकथन-पात्रता {eligibility}।",
+    "no_sources": "इस खण्ड के लिए किसी पाठगत स्रोत का प्रयोग नहीं हुआ; इसका प्रत्येक तत्त्व प्रचलित सम्बन्धों पर टिका है।"
+  },
+  "confidence": {
+    "HIGH": "दिए गए जन्म-विवरण के लिए इसके पीछे की गणनाएँ स्थिर हैं।",
+    "MEDIUM": "इसके पीछे की गणनाएँ पर्याप्त रूप से स्थिर हैं, यद्यपि कुछ मान दिए गए जन्म-विवरण से पूर्णतः निर्धारित नहीं होते।",
+    "LOW": "यह आकलन ऐसे तत्त्वों पर निर्भर है जो ठीक जन्म-समय के प्रति संवेदनशील हैं, अथवा ऐसे नियमों पर जिनका पाठगत आधार दुर्बल है; इसे सावधानी से लेना चाहिए।",
+    "UNRESOLVED": "यह कहने के लिए पर्याप्त निश्चित प्रमाण उपलब्ध नहीं है कि यह आकलन कितना भार सह सकता है।"
+  },
+  "contradiction": {
+    "both_present": "इस क्षेत्र में अनेक तत्त्व सक्रियता के अनुकूल हैं, जबकि अन्य तत्त्व बाधा या विलम्ब की ओर संकेत करते हैं। दोनों नीचे दिए गए हैं और कोई भी दूसरे को निरस्त नहीं करता।",
+    "supportive_only": "इस क्षेत्र में मिले तत्त्व एक ही दिशा में संकेत करते हैं।",
+    "challenging_only": "इस क्षेत्र में मिले तत्त्व बाधा अथवा विलम्ब की ओर संकेत करते हैं।",
+    "both_present_summary": "इस क्षेत्र में मिले तत्त्व दोनों दिशाओं में संकेत करते हैं; कोई भी दूसरे को निरस्त नहीं करता।"
+  },
+  "document": {
+    "title": "{date} के लिए संरचित ज्योतिषीय विश्लेषण",
+    "birth_summary": "{name} की कुण्डली, जन्म {birth_date} को {birth_time} बजे {place} में।",
+    "generated_for": "यह विश्लेषण {date} के लिए {profile} पद्धति-प्रारूप से गणना किया गया है।",
+    "disclaimer": "यह दस्तावेज़ नियत गणना और साँचा-प्रतिस्थापन से बना है। इसमें वही लिखा है जो एक नियम-संगणक ने जन्मकुण्डली से गणना किया; यह घटनाओं की भविष्यवाणी नहीं है, परामर्श नहीं है, और किसी परम्परा का प्रमाणित विवरण भी नहीं है।"
+  },
+  "domain": {
+    "activation": {
+      "STRONGLY_ACTIVE": "विचाराधीन अवधि में यह क्षेत्र प्रबल रूप से सक्रिय है, और इसके संकेत जन्मकुण्डली, चालू दशा तथा वर्तमान गोचर तीनों में उपस्थित हैं।",
+      "ACTIVE": "विचाराधीन अवधि में यह क्षेत्र सक्रिय है, और इसके संकेत जन्मकुण्डली तथा चालू दशा दोनों में उपस्थित हैं।",
+      "BACKGROUND": "जन्मकुण्डली में इस क्षेत्र का स्थायी संकेत है, किन्तु वर्तमान अवधि में कुछ भी उसे सक्रिय नहीं कर रहा।",
+      "MIXED": "विचाराधीन अवधि में यह क्षेत्र सक्रिय है, और इसके संकेत दोनों दिशाओं में जाते हैं।",
+      "INACTIVE": "वर्तमान पद्धति-प्रारूप जिन संकेतों को स्वीकार करता है, उनमें से कोई इस क्षेत्र के लिए नहीं मिला।"
+    }
+  },
+  "evidence": {
+    "house_lord_dignified": "{house} का स्वामी {sign} में {dignity} है, जिसे संगणक इस क्षेत्र के लिए अनुकूल मानता है।",
+    "house_lord_debilitated": "{house} का स्वामी {sign} में नीच है, जिसे संगणक इस क्षेत्र के लिए कठिनाई मानता है।",
+    "house_lord_in_dusthana": "{house} का स्वामी {occupied_house} में स्थित है, जो दुःस्थानों में से एक है।",
+    "house_lord_well_placed": "{house} का स्वामी {occupied_house} में स्थित है।",
+    "house_lord_combust": "{house} का स्वामी सूर्य के निकट होने से अस्त है।",
+    "benefic_occupies_house": "स्वाभाविक शुभ ग्रह {planet} {house} में स्थित है।",
+    "malefic_occupies_house": "स्वाभाविक पाप ग्रह {planet} {house} में स्थित है।",
+    "benefic_aspects_house": "स्वाभाविक शुभ ग्रह {planet} की दृष्टि {house} पर है।",
+    "malefic_aspects_house": "स्वाभाविक पाप ग्रह {planet} की दृष्टि {house} पर है।",
+    "karaka_dignified": "इस क्षेत्र का नैसर्गिक कारक {planet} {dignity} है।",
+    "karaka_afflicted": "इस क्षेत्र का नैसर्गिक कारक {planet} {state} है।",
+    "house_lord_shadbala": "{house} का स्वामी उस षड्बल का {ratio} गुना प्राप्त करता है जितना मूल पाठ उसके लिए अपेक्षित बताता है।",
+    "sarvashtakavarga_bindus": "{house} में सर्वाष्टकवर्ग के {bindus} बिन्दु हैं, जबकि संगणक का सन्दर्भ-स्तर {reference} है।",
+    "yoga_present": "कुण्डली में {yoga} उपस्थित है, और उसकी स्थिति {status} है।",
+    "dasha_lord_activates_house": "चालू {level} {planet} की है, जो इस क्षेत्र से सम्बन्धित {houses} का स्वामी है अथवा उनमें स्थित है।",
+    "dasha_lord_carries_yoga": "चालू {level} के स्वामी {planet} {yoga} में सम्मिलित हैं।",
+    "over_natal_house": "{planet} इस समय जन्मकुण्डली के {house} से गोचर कर रहा है।",
+    "over_house_from_natal_moon": "{planet} इस समय जन्म-चन्द्र से गिने गए {house} से गोचर कर रहा है।",
+    "conjunct_natal_point": "गोचर का {planet} जन्म के {target} के साथ एक ही राशि में है।",
+    "graha_drishti_to_natal_point": "गोचर के {planet} की दृष्टि जन्म के {target} पर है।"
+  },
+  "heading": {
+    "interpretation": "व्याख्या",
+    "reliability": "विश्वसनीयता",
+    "note": "सूचना",
+    "rules": "नियम",
+    "sources": "स्रोत"
+  },
+  "methodology": {
+    "statement": "यह आकलन {profile} पद्धति-प्रारूप का प्रयोग करता है।",
+    "domain_mapping_coverage": "कुण्डली-स्थिति को इस क्षेत्र से जोड़ने वाले {total} तत्त्वों में से {qualified} का पाठगत स्रोत खोजा जा चुका है।",
+    "not_validated": "यहाँ प्रयुक्त कोई भी नियम, सम्बन्ध या भार परम्परा-प्रमाणित नहीं है। पाठगत आधार मिलने का अर्थ इतना ही है कि कोई अंश खोजा और पढ़ा गया, यह नहीं कि किसी विद्वान ने उस पाठ की पुष्टि की है।",
+    "profile": {
+      "strict": "केवल वे तत्त्व प्रयोग में लिए जाते हैं जिनका इस क्षेत्र से सम्बन्ध किसी खोजे गए पाठगत स्रोत पर टिका है।",
+      "standard": "प्रलेखित पद्धति प्रयोग में ली जाती है, जिसमें वे सम्बन्ध भी सम्मिलित हैं जो पाठगत न होकर प्रचलित परम्परा से आते हैं।",
+      "experimental": "स्पष्ट रूप से अप्रमाणित नियम भी सम्मिलित किए जाते हैं। इस प्रारूप के परिणाम अन्य दोनों की तुलना में कम भार वहन करते हैं।"
+    }
+  },
+  "reliability": {
+    "birth_time_precision": "जन्म-समय को {seconds} सेकण्ड तक सटीक माना गया है।",
+    "sensitivity_not_computed": "इस कुण्डली के लिए जन्म-समय की संवेदनशीलता की गणना नहीं की गई, इसलिए नीचे दिया गया कुछ भी दर्ज समय के छोटे परिवर्तन के प्रति स्थिर सिद्ध नहीं हुआ है।",
+    "varga_unstable": "दिए गए जन्म-समय की अनिश्चितता के भीतर ही {chart} वर्ग-कुण्डली बदल जाती है।",
+    "lagna_unstable": "दिए गए जन्म-समय की अनिश्चितता के भीतर लग्न ही बदल जाता है, इसलिए इस दस्तावेज़ का प्रत्येक निष्कर्ष प्रभावित होता है।",
+    "boundary_unresolved": "{planet} ऐसी सन्धि पर है जिसे गणना सुलझा नहीं पाती, इसलिए उसकी राशि अथवा नक्षत्र अनिश्चित है।",
+    "depends_on_unstable_varga": "यह निष्कर्ष आंशिक रूप से {chart} पर निर्भर है, जो दिए गए जन्म-समय की अनिश्चितता के भीतर ही बदल जाती है।",
+    "schema_mismatch": "यह दस्तावेज़ {found} पूर्वानुमान-स्कीमा से प्रस्तुत किया गया है जबकि प्रस्तुतकर्ता {expected} के लिए लिखा गया था, इसलिए कुछ अनुभाग मेल नहीं खा सकते"
+  },
+  "safety": {
+    "health_scope": "यह खण्ड केवल एक सामान्य जीवन-क्षेत्र के स्तर पर गणना किए गए संकेत बताता है। यह चिकित्सकीय आकलन नहीं है, इसमें कोई रोग-निदान अथवा रोग-भविष्य नहीं है, और इसे योग्य चिकित्सकीय परामर्श के स्थान पर प्रयोग नहीं करना चाहिए।",
+    "longevity_scope": "यह खण्ड उन तत्त्वों को बताता है जो परम्परा में अष्टम भाव से जोड़े जाते हैं। इसमें आयु के विषय में कोई कथन नहीं है, कोई तिथि नहीं है, मृत्यु की कोई भविष्यवाणी नहीं है, और न ही इनमें से कुछ इससे निकाला जा सकता है।"
+  },
+  "section": {
+    "overall_activation": "समग्र सक्रियता",
+    "natal_foundation": "जन्मकुण्डली का आधार",
+    "supporting_factors": "अनुकूल तत्त्व",
+    "challenging_factors": "प्रतिकूल तत्त्व",
+    "dasha_activation": "चालू दशा की सक्रियता",
+    "transit_triggers": "वर्तमान गोचर के प्रेरक",
+    "varga_confirmation": "वर्ग-कुण्डली से पुष्टि",
+    "timing_window": "काल-खण्ड",
+    "reliability": "विश्वसनीयता"
+  },
+  "silence": {
+    "insufficient_validated_evidence": "{profile} प्रारूप के अन्तर्गत इस क्षेत्र के लिए प्रमाणित साक्ष्य पर्याप्त नहीं है।",
+    "no_natal_indication": "{profile} प्रारूप जिन संकेतों को स्वीकार करता है, उनमें से इस क्षेत्र के लिए कोई भी जन्मकुण्डली में नहीं है।",
+    "transit_without_promise": "गोचर इस समय उन भावों को स्पर्श कर रहे हैं जो इस क्षेत्र से जुड़े हैं, किन्तु जन्मकुण्डली में ऐसा कोई स्थायी संकेत नहीं है जिसे वे सक्रिय कर सकें, इसलिए कुछ भी नहीं बताया जा रहा।",
+    "excluded_by_profile": "इस क्षेत्र से सम्बन्धित {count} नियम अथवा सम्बन्ध {profile} प्रारूप ने छोड़ दिए।"
+  },
+  "timing": {
+    "window_with_peak": "सक्रियता की गणना {start} से {end} तक की गई है, और गणना के अनुसार सबसे प्रबल प्रेरक {peak} के आसपास है।",
+    "window_without_peak": "सक्रियता की गणना {start} से {end} तक की गई है। इसके भीतर कोई एक सर्वाधिक प्रबल बिन्दु नहीं मिला।",
+    "no_window": "उपलब्ध दशाओं और गोचरों से इस क्षेत्र के लिए कोई काल-खण्ड गणना नहीं किया जा सका।",
+    "dasha_stack": "चालू दशाएँ इस प्रकार हैं — {mahadasha} की महादशा, {antardasha} की अन्तर्दशा तथा {pratyantardasha} की प्रत्यन्तर्दशा।",
+    "event_candidate": "इस काल-खण्ड में {event_type} का एक सम्भावित प्रसंग आता है, जिसकी सक्रियता का स्तर {activation} है।"
+  }
+}

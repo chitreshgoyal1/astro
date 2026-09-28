@@ -1,0 +1,390 @@
+{
+  "note": "V1 release-candidate goldens. Content hashes, excluding timestamps, for every stage of the pipeline. A change here means an ANSWER changed; add an entry to `reasons` in the same commit saying what and why.",
+  "generated_under": {
+    "application": "1.8.0",
+    "release": "V1.8",
+    "consultation_schema": "2.0.0",
+    "report_schema": "1.1.0",
+    "chart_schema": "1.2.0",
+    "prediction_schema": "1.1.0",
+    "interpretation_schema": "1.0.0",
+    "source_registry": "1.7.0",
+    "varga_algorithm": "1.0.0",
+    "rule_profiles": 5
+  },
+  "moment": "2026-09-27T12:00:00",
+  "fixed_time": "2026-01-01T12:00:00",
+  "reasons": [
+    {
+      "release": "V1.8",
+      "what": "Created.",
+      "why": "First frozen set. Baselines the release candidate at gochara-complete, D2-integrated, Devanagari-PDF, South-Indian-capable."
+    }
+  ],
+  "cases": [
+    {
+      "id": "jaipur_1988",
+      "why": "The documented worked example; every other suite pins it.",
+      "input": {
+        "name": "Jaipur 1988",
+        "date_of_birth": "1988-08-30",
+        "time_of_birth": "20:18",
+        "place": "Jaipur",
+        "precision": "EXACT_TO_MINUTE"
+      },
+      "natal_snapshot": "sha256:c94fbe4828354367681bccbf858c931d",
+      "prediction_snapshot": "sha256:c1dd3ce956094691f7a6dfec0e8b3bb7",
+      "interpretation": "sha256:e4fe31bcf0e7be6ac2188a15b756a444",
+      "charts": {
+        "north_indian/D1": "568256d245da10f61c468b8076f25e015f73ca51a61ebba5c8a38cc3d6f9c57e",
+        "north_indian/D9": "266e8e8abb494dc4199f9ff748433546623c57843936989da4baa0af2a0dadab",
+        "south_indian/D1": "8c320269c215c2e1bc9d22220b24a24c0cabee438ec0dc8ce0de59fa59c0d226",
+        "south_indian/D9": "1fd5337d20c8baba0229f463a980d9461d310a9e06c0c6557b06d6ab7e6d06f1"
+      },
+      "reports": {
+        "en/summary": {
+          "document": "555c080277b7ba6fe2fbffd50fd83b6cf2a091c74eb916dd1d59306db716498d",
+          "pdf_bytes": 13072,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "life_domains",
+            "reliability"
+          ]
+        },
+        "en/technical": {
+          "document": "e9db86027a8148a4e02ce3c9c2433557d8e1620c735daa12866776c770c924c5",
+          "pdf_bytes": 53034,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "planets",
+            "strengths",
+            "yogas",
+            "life_domains",
+            "dasha",
+            "transit_summary",
+            "timing_windows",
+            "reliability",
+            "methodology",
+            "source_appendix"
+          ]
+        },
+        "hi/summary": {
+          "document": "71d23f7a186f263667ab584f1a13e0c7f231191b10fb00b60646b44b8a65c0c0",
+          "pdf_bytes": 34387,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "life_domains",
+            "reliability"
+          ]
+        },
+        "hi/technical": {
+          "document": "7ae62a45520568f5990ebfd0cefb4585402b3753d0df44c1597db07cbdbcda20",
+          "pdf_bytes": 87696,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "planets",
+            "strengths",
+            "yogas",
+            "life_domains",
+            "dasha",
+            "transit_summary",
+            "timing_windows",
+            "reliability",
+            "methodology",
+            "source_appendix"
+          ]
+        }
+      },
+      "shape": {
+        "planets": 9,
+        "domains": 17,
+        "warnings": 3
+      }
+    },
+    {
+      "id": "reykjavik_1975",
+      "why": "64 degrees north, where ascendant arithmetic breaks first.",
+      "input": {
+        "name": "Reykjavik 1975",
+        "date_of_birth": "1975-03-14",
+        "time_of_birth": "04:05",
+        "place": "Reykjavik",
+        "precision": "EXACT_TO_MINUTE"
+      },
+      "natal_snapshot": "sha256:479b1f05c56cf726beba58b89e666ffe",
+      "prediction_snapshot": "sha256:8185cb93580d480849cb13f3f61e6893",
+      "interpretation": "sha256:8d46e91cd94e07a7ba6f10088c8c64c9",
+      "charts": {
+        "north_indian/D1": "fd941abd6c95f191e24e5c7344b99b025cbec68205dc2cbabed56e20f76302d6",
+        "north_indian/D9": "b9e93541eee1f0bd3b2bca77c253dac9d7bce49a8276cb222214c90ad4a0fcba",
+        "south_indian/D1": "8ce09b47c23db4a476918119932e15fdde066b5965fe997a181b6f3e5bbc3d56",
+        "south_indian/D9": "8d104107772d4805a89ea244d4f99a79d9c88e737f24b7e1daeae45daf1f8424"
+      },
+      "reports": {
+        "en/summary": {
+          "document": "59fd87ed069fa5175c48c1304feb49783dcea64cdec9f9563699b7cc42429fab",
+          "pdf_bytes": 14395,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "life_domains",
+            "reliability"
+          ]
+        },
+        "en/technical": {
+          "document": "1e2fb9034144026c535e7d280b57f092e86c4bea793f7e815ce6b85810759c86",
+          "pdf_bytes": 56300,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "planets",
+            "strengths",
+            "yogas",
+            "life_domains",
+            "dasha",
+            "transit_summary",
+            "timing_windows",
+            "reliability",
+            "methodology",
+            "source_appendix"
+          ]
+        },
+        "hi/summary": {
+          "document": "10ad196d5b9d373bed57b8805f404345fef02fb1eb30add9b74142f7d056c331",
+          "pdf_bytes": 36331,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "life_domains",
+            "reliability"
+          ]
+        },
+        "hi/technical": {
+          "document": "45c25e53484a37bb2e6b241a73a7b9033f71c6445c2fc96cdb993898c404fde4",
+          "pdf_bytes": 92612,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "planets",
+            "strengths",
+            "yogas",
+            "life_domains",
+            "dasha",
+            "transit_summary",
+            "timing_windows",
+            "reliability",
+            "methodology",
+            "source_appendix"
+          ]
+        }
+      },
+      "shape": {
+        "planets": 9,
+        "domains": 17,
+        "warnings": 3
+      }
+    },
+    {
+      "id": "auckland_2003",
+      "why": "Southern hemisphere, and an imprecise birth time.",
+      "input": {
+        "name": "Auckland 2003",
+        "date_of_birth": "2003-11-02",
+        "time_of_birth": "17:40",
+        "place": "Auckland",
+        "precision": "APPROX_5_MIN"
+      },
+      "natal_snapshot": "sha256:0c955b6fb38758d702c9fa60918b6615",
+      "prediction_snapshot": "sha256:b689611c3d6702d6fed97ca24c0a5478",
+      "interpretation": "sha256:e23410f3f54911da5306c30023a8784e",
+      "charts": {
+        "north_indian/D1": "42d1d090ac53fe4cd27222879a4a10745549e72f5995fdc72fe24a70229d4b68",
+        "north_indian/D9": "d080ffae7a5dd609c67f9cc68928257c45f7db7591ba22bb92911b6ff3f26ba3",
+        "south_indian/D1": "973bfb6042d61fa49414aaef80db56983042f1500acdd98bde8272b50c0b0553",
+        "south_indian/D9": "b9aa34513daa947ad94992b83921fe1ac44238a5ff4fbada0af84a16ebb1dddf"
+      },
+      "reports": {
+        "en/summary": {
+          "document": "19e9d1467825fa617ba07376ab716b6f9e9837ae01a31bff0438ac78ba45fb02",
+          "pdf_bytes": 13766,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "life_domains",
+            "reliability"
+          ]
+        },
+        "en/technical": {
+          "document": "35b7065e4157e24b8744c402851c60f22f17dcb408488914c813223a1e812593",
+          "pdf_bytes": 56093,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "planets",
+            "strengths",
+            "yogas",
+            "life_domains",
+            "dasha",
+            "transit_summary",
+            "timing_windows",
+            "reliability",
+            "methodology",
+            "source_appendix"
+          ]
+        },
+        "hi/summary": {
+          "document": "54de7095f44728dff060e36b5d50ac37b19f9d815565180573c32f0c2ff57271",
+          "pdf_bytes": 35240,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "life_domains",
+            "reliability"
+          ]
+        },
+        "hi/technical": {
+          "document": "511ce77fd3be5ae523eae15c4a04a7188b4dba4a3c2b04bf7c1967bc0fcf7955",
+          "pdf_bytes": 92068,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "planets",
+            "strengths",
+            "yogas",
+            "life_domains",
+            "dasha",
+            "transit_summary",
+            "timing_windows",
+            "reliability",
+            "methodology",
+            "source_appendix"
+          ]
+        }
+      },
+      "shape": {
+        "planets": 9,
+        "domains": 17,
+        "warnings": 6
+      }
+    },
+    {
+      "id": "singapore_1960",
+      "why": "Equatorial, and a birth time known only to the quarter hour.",
+      "input": {
+        "name": "Singapore 1960",
+        "date_of_birth": "1960-06-21",
+        "time_of_birth": "12:00",
+        "place": "Singapore",
+        "precision": "APPROX_15_MIN"
+      },
+      "natal_snapshot": "sha256:699da5903224ac6bf0d9e5be60bf5807",
+      "prediction_snapshot": "sha256:629980724dd4c58ad6074630b5d56cf6",
+      "interpretation": "sha256:d90fe7fe9593710ae5b2ad4aaef633ea",
+      "charts": {
+        "north_indian/D1": "3871e8f66ba405c5146327a4035e93fe8e2cc326fb1696fbcd096352a52ebf54",
+        "north_indian/D9": "847213cd4710c7cdbfe435fa651b91bf7293755e016c1533a0488e844c732c99",
+        "south_indian/D1": "183258cab9bfb72aba516e1f391427be9375ab40e84c6111c6a9aa94b5e78726",
+        "south_indian/D9": "b5ebf492f8fc44818fdc7e77a2a57a97a2208e5710f9f6593e26909c69eee2dd"
+      },
+      "reports": {
+        "en/summary": {
+          "document": "b8ef72081912d151df4572fe8ba662b6c7d0b40ff708189146e3ab6bcaa3fdae",
+          "pdf_bytes": 15298,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "life_domains",
+            "reliability"
+          ]
+        },
+        "en/technical": {
+          "document": "4de9b265d4822bfb74e7c0199569d89bb32c300b6aa2bd99625c77f70a653e6a",
+          "pdf_bytes": 55566,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "planets",
+            "strengths",
+            "yogas",
+            "life_domains",
+            "dasha",
+            "transit_summary",
+            "timing_windows",
+            "reliability",
+            "methodology",
+            "source_appendix"
+          ]
+        },
+        "hi/summary": {
+          "document": "99c3629b52c8c2fcdc1fce9bda980d6b53346ffde5ccee01c7699d9df7173f2b",
+          "pdf_bytes": 37848,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "life_domains",
+            "reliability"
+          ]
+        },
+        "hi/technical": {
+          "document": "dcb5721dffde2c73ea6fd5ad4ed7f02ccd2961c7f0ec50feec8b7eb64afefa89",
+          "pdf_bytes": 91190,
+          "sections": [
+            "cover",
+            "birth_details",
+            "executive_summary",
+            "charts",
+            "planets",
+            "strengths",
+            "yogas",
+            "life_domains",
+            "dasha",
+            "transit_summary",
+            "timing_windows",
+            "reliability",
+            "methodology",
+            "source_appendix"
+          ]
+        }
+      },
+      "shape": {
+        "planets": 9,
+        "domains": 17,
+        "warnings": 8
+      }
+    }
+  ]
+}

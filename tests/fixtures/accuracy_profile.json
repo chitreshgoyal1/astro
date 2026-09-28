@@ -1,0 +1,233 @@
+{
+ "angles": {
+  "ascendant_all_sites": {
+   "max_arcmin": 0.08,
+   "max_arcsec": 4.51,
+   "median_arcsec": 0.23,
+   "p95_arcsec": 0.82,
+   "p99_arcsec": 1.21,
+   "samples": 20000
+  },
+  "ascendant_per_site": {
+   "Jaipur": {
+    "max_arcmin": 0.02,
+    "max_arcsec": 1.42,
+    "median_arcsec": 0.25,
+    "p95_arcsec": 0.82,
+    "p99_arcsec": 1.1,
+    "samples": 4000
+   },
+   "New York": {
+    "max_arcmin": 0.03,
+    "max_arcsec": 1.84,
+    "median_arcsec": 0.23,
+    "p95_arcsec": 0.85,
+    "p99_arcsec": 1.27,
+    "samples": 4000
+   },
+   "Reykjavik": {
+    "max_arcmin": 0.08,
+    "max_arcsec": 4.51,
+    "median_arcsec": 0.18,
+    "p95_arcsec": 0.77,
+    "p99_arcsec": 1.81,
+    "samples": 4000
+   },
+   "Singapore": {
+    "max_arcmin": 0.02,
+    "max_arcsec": 1.21,
+    "median_arcsec": 0.25,
+    "p95_arcsec": 0.81,
+    "p99_arcsec": 1.02,
+    "samples": 4000
+   },
+   "Sydney": {
+    "max_arcmin": 0.03,
+    "max_arcsec": 1.59,
+    "median_arcsec": 0.24,
+    "p95_arcsec": 0.83,
+    "p99_arcsec": 1.2,
+    "samples": 4000
+   }
+  },
+  "midheaven_all_sites": {
+   "max_arcmin": 0.02,
+   "max_arcsec": 1.24,
+   "median_arcsec": 0.25,
+   "p95_arcsec": 0.82,
+   "p99_arcsec": 1.01,
+   "samples": 20000
+  }
+ },
+ "ayanamsha": {
+  "fagan_bradley": {
+   "max_arcmin": 0.0,
+   "max_arcsec": 0.0,
+   "median_arcsec": 0.0,
+   "p95_arcsec": 0.0,
+   "p99_arcsec": 0.0,
+   "samples": 1000
+  },
+  "krishnamurti": {
+   "max_arcmin": 0.0,
+   "max_arcsec": 0.0,
+   "median_arcsec": 0.0,
+   "p95_arcsec": 0.0,
+   "p99_arcsec": 0.0,
+   "samples": 1000
+  },
+  "lahiri": {
+   "max_arcmin": 0.0,
+   "max_arcsec": 0.0,
+   "median_arcsec": 0.0,
+   "p95_arcsec": 0.0,
+   "p99_arcsec": 0.0,
+   "samples": 1000
+  },
+  "raman": {
+   "max_arcmin": 0.0,
+   "max_arcsec": 0.0,
+   "median_arcsec": 0.0,
+   "p95_arcsec": 0.0,
+   "p99_arcsec": 0.0,
+   "samples": 1000
+  }
+ },
+ "delta_t": {
+  "max_seconds": 12.101,
+  "median_seconds": 0.02,
+  "samples": 1000
+ },
+ "generator": {
+  "reference": "Swiss Ephemeris (pyswisseph) SEFLG_MOSEPH",
+  "span": "1800-01-01 to 2050-01-01",
+  "step_days": 91.3125,
+  "swisseph_version": "2.10.03",
+  "tool": "tools/measure_accuracy.py"
+ },
+ "speed_and_retrogression": {
+  "Budha": {
+   "max_speed_error_deg_per_day": 0.00197,
+   "median_speed_error_deg_per_day": 9.1e-05,
+   "mismatch_rate_pct": 0.0,
+   "retrograde_flag_mismatches": 0,
+   "samples": 10957
+  },
+  "Chandra": {
+   "max_speed_error_deg_per_day": 0.00956,
+   "median_speed_error_deg_per_day": 0.002003,
+   "mismatch_rate_pct": 0.0,
+   "retrograde_flag_mismatches": 0,
+   "samples": 10957
+  },
+  "Guru": {
+   "max_speed_error_deg_per_day": 0.00109,
+   "median_speed_error_deg_per_day": 7e-06,
+   "mismatch_rate_pct": 0.0,
+   "retrograde_flag_mismatches": 0,
+   "samples": 10957
+  },
+  "Mangal": {
+   "max_speed_error_deg_per_day": 0.00142,
+   "median_speed_error_deg_per_day": 1e-05,
+   "mismatch_rate_pct": 0.0,
+   "retrograde_flag_mismatches": 0,
+   "samples": 10957
+  },
+  "Shani": {
+   "max_speed_error_deg_per_day": 0.00083,
+   "median_speed_error_deg_per_day": 5e-06,
+   "mismatch_rate_pct": 0.0,
+   "retrograde_flag_mismatches": 0,
+   "samples": 10957
+  },
+  "Shukra": {
+   "max_speed_error_deg_per_day": 0.00278,
+   "median_speed_error_deg_per_day": 2.6e-05,
+   "mismatch_rate_pct": 0.0,
+   "retrograde_flag_mismatches": 0,
+   "samples": 10957
+  },
+  "Surya": {
+   "max_speed_error_deg_per_day": 0.00055,
+   "median_speed_error_deg_per_day": 0.000262,
+   "mismatch_rate_pct": 0.0,
+   "retrograde_flag_mismatches": 0,
+   "samples": 10957
+  }
+ },
+ "tropical_longitude": {
+  "Budha": {
+   "max_arcmin": 0.21,
+   "max_arcsec": 12.33,
+   "median_arcsec": 1.41,
+   "p95_arcsec": 5.47,
+   "p99_arcsec": 7.99,
+   "samples": 1000
+  },
+  "Chandra": {
+   "max_arcmin": 0.17,
+   "max_arcsec": 10.34,
+   "median_arcsec": 1.78,
+   "p95_arcsec": 5.83,
+   "p99_arcsec": 8.29,
+   "samples": 1000
+  },
+  "Guru": {
+   "max_arcmin": 0.05,
+   "max_arcsec": 3.07,
+   "median_arcsec": 0.51,
+   "p95_arcsec": 1.83,
+   "p99_arcsec": 2.33,
+   "samples": 1000
+  },
+  "Mangal": {
+   "max_arcmin": 0.14,
+   "max_arcsec": 8.25,
+   "median_arcsec": 0.48,
+   "p95_arcsec": 2.81,
+   "p99_arcsec": 4.48,
+   "samples": 1000
+  },
+  "Rahu_mean": {
+   "max_arcmin": 0.3,
+   "max_arcsec": 18.01,
+   "median_arcsec": 12.13,
+   "p95_arcsec": 17.45,
+   "p99_arcsec": 17.86,
+   "samples": 1000
+  },
+  "Rahu_true": {
+   "max_arcmin": 1.11,
+   "max_arcsec": 66.73,
+   "median_arcsec": 11.35,
+   "p95_arcsec": 37.06,
+   "p99_arcsec": 51.55,
+   "samples": 1000
+  },
+  "Shani": {
+   "max_arcmin": 0.07,
+   "max_arcsec": 4.14,
+   "median_arcsec": 0.77,
+   "p95_arcsec": 2.93,
+   "p99_arcsec": 3.74,
+   "samples": 1000
+  },
+  "Shukra": {
+   "max_arcmin": 0.64,
+   "max_arcsec": 38.5,
+   "median_arcsec": 3.96,
+   "p95_arcsec": 12.05,
+   "p99_arcsec": 27.01,
+   "samples": 1000
+  },
+  "Surya": {
+   "max_arcmin": 0.57,
+   "max_arcsec": 34.37,
+   "median_arcsec": 8.14,
+   "p95_arcsec": 22.45,
+   "p99_arcsec": 28.79,
+   "samples": 1000
+  }
+ }
+}

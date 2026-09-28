@@ -1,0 +1,12 @@
+{
+  "_about": "Marriage. BPHS 11.8 gives the seventh house jaya, the wife; 32.23 gives the wife from Venus.",
+  "domain": {
+    "activation": {
+      "STRONGLY_ACTIVE": "Matters of marriage and partnership are strongly activated in the period examined, with indications in the birth chart, the running dasha and current transits. This records calculated activation of the area, not an event.",
+      "ACTIVE": "Matters of marriage and partnership are active in the period examined, indicated in the birth chart and activated by the running dasha. This records calculated activation of the area, not an event.",
+      "BACKGROUND": "The birth chart carries a standing indication about marriage that nothing in the current period is activating.",
+      "MIXED": "Matters of marriage and partnership are active in the period examined, and the indications point in both directions.",
+      "INACTIVE": "No indication about marriage is admitted under the current methodology profile."
+    }
+  }
+}

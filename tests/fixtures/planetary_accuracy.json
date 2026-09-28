@@ -1,0 +1,4481 @@
+{
+ "cases": [
+  {
+   "ayanamsha_lahiri": 21.06559213933575,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 23.227117234337015,
+     "nakshatra": "Purva Ashadha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 263.227117234337,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.321445404072105,
+     "tropical": 284.2927093736728
+    },
+    "Chandra": {
+     "degree_in_sign": 8.119141367774944,
+     "nakshatra": "Shatabhisha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 308.11914136777494,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 13.334216664436642,
+     "tropical": 329.1847335071107
+    },
+    "Guru": {
+     "degree_in_sign": 0.9134082868799709,
+     "nakshatra": "Mrigashira",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 60.91340828687997,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": -0.0635984688879296,
+     "tropical": 81.97900042621572
+    },
+    "Mangal": {
+     "degree_in_sign": 1.4317410524894285,
+     "nakshatra": "Mula",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 241.43174105248943,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.7074704822475768,
+     "tropical": 262.4973331918252
+    },
+    "Shani": {
+     "degree_in_sign": 15.744867380266385,
+     "nakshatra": "Pushya",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 105.74486738026638,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.08203902500884988,
+     "tropical": 126.81045951960213
+    },
+    "Shukra": {
+     "degree_in_sign": 1.1242156299929889,
+     "nakshatra": "Mula",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 241.124215629993,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.1450580073169034,
+     "tropical": 262.18980776932875
+    },
+    "Surya": {
+     "degree_in_sign": 15.744867630036765,
+     "nakshatra": "Shravana",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 285.74486763003677,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.016084082723895,
+     "tropical": 306.8104597693725
+    }
+   },
+   "jd_ut": 2378522.410999,
+   "kind": "opposition",
+   "label": "saturn_opposition_2378522",
+   "utc": "1800-01-26T21:51:50",
+   "why": "saturn at opposition to the Sun"
+  },
+  {
+   "ayanamsha_lahiri": 21.066329114846788,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 21.81667379938233,
+     "nakshatra": "Shravana",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 291.81667379938233,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.626321886216913,
+     "tropical": 312.8830029142291
+    },
+    "Chandra": {
+     "degree_in_sign": 16.122212346897527,
+     "nakshatra": "Swati",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 196.12221234689753,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 14.125858250604209,
+     "tropical": 217.1885414617443
+    },
+    "Guru": {
+     "degree_in_sign": 0.2938094334584136,
+     "nakshatra": "Mrigashira",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 60.293809433458414,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": -6.33737738865758e-09,
+     "tropical": 81.3601385483052
+    },
+    "Mangal": {
+     "degree_in_sign": 15.161054816527553,
+     "nakshatra": "Purva Ashadha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 255.16105481652755,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.7164903849337335,
+     "tropical": 276.22738393137433
+    },
+    "Shani": {
+     "degree_in_sign": 14.21887544297391,
+     "nakshatra": "Pushya",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 104.21887544297391,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.07340814235720096,
+     "tropical": 125.2852045578207
+    },
+    "Shukra": {
+     "degree_in_sign": 23.567970015270475,
+     "nakshatra": "Purva Ashadha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 263.5679700152705,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.1794684997608198,
+     "tropical": 284.63429913011726
+    },
+    "Surya": {
+     "degree_in_sign": 5.270591766381187,
+     "nakshatra": "Dhanishtha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 305.2705917663812,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.008716878444682,
+     "tropical": 326.33692088122797
+    }
+   },
+   "jd_ut": 2378541.697948,
+   "kind": "station",
+   "label": "jupiter_station_2378542",
+   "utc": "1800-02-15T04:45:02",
+   "why": "jupiter within hours of a station"
+  },
+  {
+   "ayanamsha_lahiri": 21.06741056765778,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 13.90366709536545,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 343.90366709536545,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.9478191676020762,
+     "tropical": 4.971077663023227
+    },
+    "Chandra": {
+     "degree_in_sign": 0.9434355401563153,
+     "nakshatra": "Vishakha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 210.94343554015632,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 14.434845338821335,
+     "tropical": 232.0108461078141
+    },
+    "Guru": {
+     "degree_in_sign": 1.5840188028207152,
+     "nakshatra": "Mrigashira",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 61.584018802820715,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.08828120624831592,
+     "tropical": 82.6514293704785
+    },
+    "Mangal": {
+     "degree_in_sign": 5.596627601490866,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 275.59662760149087,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 0.727253990736274,
+     "tropical": 296.6640381691486
+    },
+    "Shani": {
+     "degree_in_sign": 12.619392179904736,
+     "nakshatra": "Pushya",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 102.61939217990474,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.03571503448074023,
+     "tropical": 123.68680274756252
+    },
+    "Shukra": {
+     "degree_in_sign": 27.333997235861546,
+     "nakshatra": "Dhanishtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 297.33399723586155,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.2033174727409701,
+     "tropical": 318.4014078035193
+    },
+    "Surya": {
+     "degree_in_sign": 3.6283652470218044,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 333.6283652470218,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9943291079637837,
+     "tropical": 354.69577581467956
+    }
+   },
+   "jd_ut": 2378570.0,
+   "kind": "anchor_year",
+   "label": "anchor_1800",
+   "utc": "1800-03-15T12:00:00",
+   "why": "Anchor year required by the V1.2 accuracy brief"
+  },
+  {
+   "ayanamsha_lahiri": 21.068176065559435,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 10.637437009360358,
+     "nakshatra": "Ashwini",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 10.637437009360358,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.3693468090981636,
+     "tropical": 31.705613074919793
+    },
+    "Chandra": {
+     "degree_in_sign": 16.603158913947908,
+     "nakshatra": "Pushya",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 106.60315891394791,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 12.92109851475215,
+     "tropical": 127.67133497950734
+    },
+    "Guru": {
+     "degree_in_sign": 3.8679131872931904,
+     "nakshatra": "Mrigashira",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 63.86791318729319,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.13769980795720824,
+     "tropical": 84.93608925285263
+    },
+    "Mangal": {
+     "degree_in_sign": 20.21457389568087,
+     "nakshatra": "Shravana",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 290.21457389568087,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 0.7313651247728039,
+     "tropical": 311.2827499612403
+    },
+    "Shani": {
+     "degree_in_sign": 12.255368316294238,
+     "nakshatra": "Pushya",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 102.25536831629424,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 5.833393851844098e-09,
+     "tropical": 123.32354438185367
+    },
+    "Shukra": {
+     "degree_in_sign": 21.525494025942464,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 321.52549402594246,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.2106003072257054,
+     "tropical": 342.5936700915019
+    },
+    "Surya": {
+     "degree_in_sign": 23.441195881817237,
+     "nakshatra": "Revati",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 353.44119588181724,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9830115911059456,
+     "tropical": 14.509371947376671
+    }
+   },
+   "jd_ut": 2378590.03338,
+   "kind": "station",
+   "label": "saturn_station_2378590",
+   "utc": "1800-04-04T12:48:04",
+   "why": "saturn within hours of a station"
+  },
+  {
+   "ayanamsha_lahiri": 21.071691703796585,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 9.462600712031204,
+     "nakshatra": "Pushya",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 99.4626007120312,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 1.7819241743695424,
+     "tropical": 120.53429241582779
+    },
+    "Chandra": {
+     "degree_in_sign": 6.853172902100113,
+     "nakshatra": "Mula",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 246.8531729021001,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 15.050598805423684,
+     "tropical": 267.9248646058967
+    },
+    "Guru": {
+     "degree_in_sign": 22.080673858866376,
+     "nakshatra": "Punarvasu",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 82.08067385886638,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.2179413083558055,
+     "tropical": 103.15236556266296
+    },
+    "Mangal": {
+     "degree_in_sign": 25.79918889729055,
+     "nakshatra": "Revati",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 355.79918889729055,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.6571342519521564,
+     "tropical": 16.87088060108713
+    },
+    "Shani": {
+     "degree_in_sign": 18.7124981877905,
+     "nakshatra": "Ashlesha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 108.7124981877905,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.11956729181903868,
+     "tropical": 129.7841898915871
+    },
+    "Shukra": {
+     "degree_in_sign": 13.589183102518902,
+     "nakshatra": "Ardra",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 73.5891831025189,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 1.2261859292709298,
+     "tropical": 94.66087480631549
+    },
+    "Surya": {
+     "degree_in_sign": 22.08067418567886,
+     "nakshatra": "Punarvasu",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 82.08067418567886,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.9529772324638328,
+     "tropical": 103.15236588947545
+    }
+   },
+   "jd_ut": 2378682.038948,
+   "kind": "conjunction",
+   "label": "jupiter_conjunction_2378682",
+   "utc": "1800-07-05T12:56:05",
+   "why": "jupiter in conjunction with the Sun"
+  },
+  {
+   "ayanamsha_lahiri": 21.07291795905779,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 17.203893427907076,
+     "nakshatra": "Purva Phalguni",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 137.20389342790708,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.35398141182372306,
+     "tropical": 158.27681138696488
+    },
+    "Chandra": {
+     "degree_in_sign": 14.732931801126256,
+     "nakshatra": "Shatabhisha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 314.73293180112626,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 13.714035930044775,
+     "tropical": 335.80584976018406
+    },
+    "Guru": {
+     "degree_in_sign": 29.19895044329948,
+     "nakshatra": "Punarvasu",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 89.19895044329948,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.21482523543992676,
+     "tropical": 110.27186840235727
+    },
+    "Mangal": {
+     "degree_in_sign": 15.314146782868733,
+     "nakshatra": "Bharani",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 15.314146782868733,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.5461493870018163,
+     "tropical": 36.38706474192652
+    },
+    "Shani": {
+     "degree_in_sign": 22.737927304033676,
+     "nakshatra": "Ashlesha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 112.73792730403368,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.1282427884344764,
+     "tropical": 133.81084526309147
+    },
+    "Shukra": {
+     "degree_in_sign": 23.086571013790532,
+     "nakshatra": "Ashlesha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 113.08657101379053,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 1.2349739148284153,
+     "tropical": 134.15948897284832
+    },
+    "Surya": {
+     "degree_in_sign": 22.737927389088625,
+     "nakshatra": "Ashlesha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 112.73792738908863,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.9585075333373487,
+     "tropical": 133.81084534814642
+    }
+   },
+   "jd_ut": 2378714.130483,
+   "kind": "conjunction",
+   "label": "saturn_conjunction_2378714",
+   "utc": "1800-08-06T15:07:53",
+   "why": "saturn in conjunction with the Sun"
+  },
+  {
+   "ayanamsha_lahiri": 21.073063211763817,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 17.963135668206576,
+     "nakshatra": "Purva Phalguni",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 137.96313566820658,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.03789981154692226,
+     "tropical": 159.03619887997039
+    },
+    "Chandra": {
+     "degree_in_sign": 3.978940431672548,
+     "nakshatra": "Ashwini",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 3.978940431672548,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 12.282006800070034,
+     "tropical": 25.052003643436365
+    },
+    "Guru": {
+     "degree_in_sign": 0.010612052598332866,
+     "nakshatra": "Punarvasu",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 90.01061205259833,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.21225976265387653,
+     "tropical": 111.08367526436214
+    },
+    "Mangal": {
+     "degree_in_sign": 17.354598164055368,
+     "nakshatra": "Bharani",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 17.354598164055368,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.5271778758898809,
+     "tropical": 38.427661375819184
+    },
+    "Shani": {
+     "degree_in_sign": 23.22560091417813,
+     "nakshatra": "Ashlesha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 113.22560091417813,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.12828014756700115,
+     "tropical": 134.29866412594194
+    },
+    "Shukra": {
+     "degree_in_sign": 27.782889477670437,
+     "nakshatra": "Ashlesha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 117.78288947767044,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 1.2360164971029917,
+     "tropical": 138.85595268943425
+    },
+    "Surya": {
+     "degree_in_sign": 26.3839813950176,
+     "nakshatra": "Ashlesha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 116.3839813950176,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.9599367665407735,
+     "tropical": 137.4570446067814
+    }
+   },
+   "jd_ut": 2378717.931797,
+   "kind": "sign_boundary",
+   "label": "jupiter_signchange_2378718",
+   "utc": "1800-08-10T10:21:47",
+   "why": "jupiter just past a sidereal sign boundary"
+  },
+  {
+   "ayanamsha_lahiri": 21.07529450944407,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 24.033002296916692,
+     "nakshatra": "Chitra",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 174.0330022969167,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 1.716739271968074,
+     "tropical": 195.10829680636076
+    },
+    "Chandra": {
+     "degree_in_sign": 18.59637502457739,
+     "nakshatra": "Rohini",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 48.59637502457739,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 11.873462330850785,
+     "tropical": 69.67166953402146
+    },
+    "Guru": {
+     "degree_in_sign": 10.372709480707272,
+     "nakshatra": "Pushya",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 100.37270948070727,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.12770180331170394,
+     "tropical": 121.44800399015135
+    },
+    "Mangal": {
+     "degree_in_sign": 3.798277182915065,
+     "nakshatra": "Krittika",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 33.798277182915065,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": -0.06850062164096493,
+     "tropical": 54.873571692359135
+    },
+    "Shani": {
+     "degree_in_sign": 0.004673065989493352,
+     "nakshatra": "Magha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 120.0046730659895,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.0934708008552549,
+     "tropical": 141.07996757543356
+    },
+    "Shukra": {
+     "degree_in_sign": 10.215613342948814,
+     "nakshatra": "Swati",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 190.2156133429488,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.2419068727057236,
+     "tropical": 211.29090785239288
+    },
+    "Surya": {
+     "degree_in_sign": 23.215187236910708,
+     "nakshatra": "Hasta",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 173.2151872369107,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.9885816080702385,
+     "tropical": 194.29048174635477
+    }
+   },
+   "jd_ut": 2378776.325614,
+   "kind": "sign_boundary",
+   "label": "saturn_signchange_2378776",
+   "utc": "1800-10-07T19:48:53",
+   "why": "saturn just past a sidereal sign boundary"
+  },
+  {
+   "ayanamsha_lahiri": 21.076986876675253,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 29.323262195453736,
+     "nakshatra": "Jyeshtha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 239.32326219545374,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.0574688648400334,
+     "tropical": 260.400249072129
+    },
+    "Chandra": {
+     "degree_in_sign": 7.555701933532532,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 277.55570193353253,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 14.406218589068928,
+     "tropical": 298.6326888102078
+    },
+    "Guru": {
+     "degree_in_sign": 13.377310701188676,
+     "nakshatra": "Pushya",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 103.37731070118868,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -7.89908524267842e-09,
+     "tropical": 124.45429757786393
+    },
+    "Mangal": {
+     "degree_in_sign": 21.39484757528484,
+     "nakshatra": "Bharani",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 21.39484757528484,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": -0.27761640120073716,
+     "tropical": 42.47183445196009
+    },
+    "Shani": {
+     "degree_in_sign": 2.763979017462816,
+     "nakshatra": "Magha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 122.76397901746282,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.026088170020641,
+     "tropical": 143.84096589413807
+    },
+    "Shukra": {
+     "degree_in_sign": 5.159384492328371,
+     "nakshatra": "Mula",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 245.15938449232837,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.2381090732465618,
+     "tropical": 266.2363713690036
+    },
+    "Surya": {
+     "degree_in_sign": 7.536517997153084,
+     "nakshatra": "Anuradha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 217.53651799715308,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.0114853433165159,
+     "tropical": 238.61350487382833
+    }
+   },
+   "jd_ut": 2378820.615411,
+   "kind": "station",
+   "label": "jupiter_station_2378821",
+   "utc": "1800-11-21T02:46:11",
+   "why": "jupiter within hours of a station"
+  },
+  {
+   "ayanamsha_lahiri": 21.077524565031954,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 4.024916878510993,
+     "nakshatra": "Mula",
+     "pada": 2,
+     "retrograde": true,
+     "sidereal": 244.024916878511,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": -0.756691845600366,
+     "tropical": 265.10244144354294
+    },
+    "Chandra": {
+     "degree_in_sign": 3.565473650718417,
+     "nakshatra": "Pushya",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 93.56547365071842,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 11.948694375542694,
+     "tropical": 114.64299821575037
+    },
+    "Guru": {
+     "degree_in_sign": 13.050486786630799,
+     "nakshatra": "Pushya",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 103.0504867866308,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.04606955408652964,
+     "tropical": 124.12801135166275
+    },
+    "Mangal": {
+     "degree_in_sign": 18.71075197748713,
+     "nakshatra": "Bharani",
+     "pada": 2,
+     "retrograde": true,
+     "sidereal": 18.71075197748713,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": -0.09746192448476719,
+     "tropical": 39.788276542519085
+    },
+    "Shani": {
+     "degree_in_sign": 2.9473983872291853,
+     "nakshatra": "Magha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 122.94739838722919,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 1.508556873412909e-08,
+     "tropical": 144.02492295226114
+    },
+    "Shukra": {
+     "degree_in_sign": 22.551934573553808,
+     "nakshatra": "Purva Ashadha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 262.5519345735538,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.233811609381985,
+     "tropical": 283.6294591385858
+    },
+    "Surya": {
+     "degree_in_sign": 21.797518177461598,
+     "nakshatra": "Jyeshtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 231.7975181774616,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.015640117750599,
+     "tropical": 252.87504274249355
+    }
+   },
+   "jd_ut": 2378834.686884,
+   "kind": "station",
+   "label": "saturn_station_2378835",
+   "utc": "1800-12-05T04:29:06",
+   "why": "saturn within hours of a station"
+  },
+  {
+   "ayanamsha_lahiri": 21.07927115519012,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 21.688403723742624,
+     "nakshatra": "Purva Ashadha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 261.6884037237426,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.4873132955680448,
+     "tropical": 282.7676748789327
+    },
+    "Chandra": {
+     "degree_in_sign": 17.003604831946916,
+     "nakshatra": "Revati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 347.0036048319469,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 13.001924866217058,
+     "tropical": 8.082875987137028
+    },
+    "Guru": {
+     "degree_in_sign": 8.353558626627859,
+     "nakshatra": "Pushya",
+     "pada": 2,
+     "retrograde": true,
+     "sidereal": 98.35355862662786,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.13421830203498974,
+     "tropical": 119.43282978181799
+    },
+    "Mangal": {
+     "degree_in_sign": 26.3416754515016,
+     "nakshatra": "Bharani",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 26.3416754515016,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.36546861185767393,
+     "tropical": 47.42094660669172
+    },
+    "Shani": {
+     "degree_in_sign": 1.1499238203108746,
+     "nakshatra": "Magha",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 121.14992382031087,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.07137584676783605,
+     "tropical": 142.229194975501
+    },
+    "Shukra": {
+     "degree_in_sign": 18.278924557381856,
+     "nakshatra": "Shatabhisha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 318.27892455738186,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.1953839097451109,
+     "tropical": 339.35819571257196
+    },
+    "Surya": {
+     "degree_in_sign": 8.353558215662872,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 278.3535582156629,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.01761289326543,
+     "tropical": 299.43282937085297
+    }
+   },
+   "jd_ut": 2378880.39568,
+   "kind": "opposition",
+   "label": "jupiter_opposition_2378880",
+   "utc": "1801-01-19T21:29:46",
+   "why": "jupiter at opposition to the Sun"
+  },
+  {
+   "ayanamsha_lahiri": 21.07984574375059,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 15.31995495412292,
+     "nakshatra": "Shravana",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 285.3199549541229,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.6603791069392588,
+     "tropical": 306.3998006978735
+    },
+    "Chandra": {
+     "degree_in_sign": 21.627810965972316,
+     "nakshatra": "Hasta",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 171.62781096597232,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 13.104471639941698,
+     "tropical": 192.7076567097229
+    },
+    "Guru": {
+     "degree_in_sign": 6.394654026419261,
+     "nakshatra": "Pushya",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 96.39465402641926,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.12277544947098652,
+     "tropical": 117.47449977016984
+    },
+    "Mangal": {
+     "degree_in_sign": 2.4225434908827026,
+     "nakshatra": "Krittika",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 32.4225434908827,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 0.4383706798974206,
+     "tropical": 53.50238923463329
+    },
+    "Shani": {
+     "degree_in_sign": 29.99597456494581,
+     "nakshatra": "Ashlesha",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 119.99597456494581,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.0804779845296421,
+     "tropical": 141.0758203086964
+    },
+    "Shukra": {
+     "degree_in_sign": 6.042960660198673,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 336.0429606601987,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.1654992709230445,
+     "tropical": 357.12280640394926
+    },
+    "Surya": {
+     "degree_in_sign": 23.621211396966885,
+     "nakshatra": "Dhanishtha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 293.6212113969669,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.0131228954862046,
+     "tropical": 314.70105714071747
+    }
+   },
+   "jd_ut": 2378895.432832,
+   "kind": "sign_boundary",
+   "label": "saturn_signchange_2378895",
+   "utc": "1801-02-03T22:23:16",
+   "why": "saturn just past a sidereal sign boundary"
+  },
+  {
+   "ayanamsha_lahiri": 21.080068532518673,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 25.227308931087236,
+     "nakshatra": "Dhanishtha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 295.22730893108724,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.7393950686703292,
+     "tropical": 316.3073774636059
+    },
+    "Chandra": {
+     "degree_in_sign": 12.87113070430621,
+     "nakshatra": "Mula",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 252.8711307043062,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 14.733332785305,
+     "tropical": 273.9511992368249
+    },
+    "Guru": {
+     "degree_in_sign": 5.706166728202874,
+     "nakshatra": "Pushya",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 95.70616672820287,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.11284544569664585,
+     "tropical": 116.78623526072155
+    },
+    "Mangal": {
+     "degree_in_sign": 5.043167914739186,
+     "nakshatra": "Krittika",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 35.043167914739186,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 0.46021313166441,
+     "tropical": 56.12323644725786
+    },
+    "Shani": {
+     "degree_in_sign": 29.52347611605407,
+     "nakshatra": "Ashlesha",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 119.52347611605407,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.08126686303990845,
+     "tropical": 140.60354464857275
+    },
+    "Shukra": {
+     "degree_in_sign": 12.797014502570391,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 342.7970145025704,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.1510935135493854,
+     "tropical": 3.8770830350890346
+    },
+    "Surya": {
+     "degree_in_sign": 29.523476606066822,
+     "nakshatra": "Dhanishtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 299.5234766060668,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.0115341778015847,
+     "tropical": 320.6035451385855
+    }
+   },
+   "jd_ut": 2378901.263279,
+   "kind": "opposition",
+   "label": "saturn_opposition_2378901",
+   "utc": "1801-02-09T18:19:07",
+   "why": "saturn at opposition to the Sun"
+  },
+  {
+   "ayanamsha_lahiri": 21.081574404807423,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 23.25182563702765,
+     "nakshatra": "Revati",
+     "pada": 2,
+     "retrograde": true,
+     "sidereal": 353.25182563702765,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": -0.04423828694304169,
+     "tropical": 14.333400041835047
+    },
+    "Chandra": {
+     "degree_in_sign": 25.71929111255092,
+     "nakshatra": "Mrigashira",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 55.71929111255092,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 11.95947853550693,
+     "tropical": 76.80086551735835
+    },
+    "Guru": {
+     "degree_in_sign": 3.318304187494178,
+     "nakshatra": "Punarvasu",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 93.31830418749418,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 1.2200496370600009e-08,
+     "tropical": 114.3998785923016
+    },
+    "Mangal": {
+     "degree_in_sign": 25.179262990891743,
+     "nakshatra": "Mrigashira",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 55.17926299089174,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 0.5480608083782837,
+     "tropical": 76.26083739569917
+    },
+    "Shani": {
+     "degree_in_sign": 26.76251602743791,
+     "nakshatra": "Ashlesha",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 116.76251602743791,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.048785947288179546,
+     "tropical": 137.84409043224534
+    },
+    "Shukra": {
+     "degree_in_sign": 25.0112600338425,
+     "nakshatra": "Bharani",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 25.0112600338425,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.9552304013416184,
+     "tropical": 46.09283443864992
+    },
+    "Surya": {
+     "degree_in_sign": 9.009970149145829,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 339.00997014914583,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9915836577207826,
+     "tropical": 0.09154455395327435
+    }
+   },
+   "jd_ut": 2378940.672385,
+   "kind": "station",
+   "label": "jupiter_station_2378941",
+   "utc": "1801-03-21T04:08:14",
+   "why": "jupiter within hours of a station"
+  },
+  {
+   "ayanamsha_lahiri": 21.08267257792624,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 12.523427059360074,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 342.5234270593601,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.45493779290768904,
+     "tropical": 3.6060996372863294
+    },
+    "Chandra": {
+     "degree_in_sign": 12.4194400777221,
+     "nakshatra": "Ardra",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 72.4194400777221,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 11.899401715936659,
+     "tropical": 93.50211265564835
+    },
+    "Guru": {
+     "degree_in_sign": 4.58718267488527,
+     "nakshatra": "Pushya",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 94.58718267488527,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.08575003532424703,
+     "tropical": 115.66985525281152
+    },
+    "Mangal": {
+     "degree_in_sign": 11.375635347475082,
+     "nakshatra": "Ardra",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 71.37563534747508,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.5767773048347217,
+     "tropical": 92.45830792540131
+    },
+    "Shani": {
+     "degree_in_sign": 26.037950085931584,
+     "nakshatra": "Ashlesha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 116.03795008593158,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 1.9077382944741178e-08,
+     "tropical": 137.12062266385783
+    },
+    "Shukra": {
+     "degree_in_sign": 17.355420262380967,
+     "nakshatra": "Rohini",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 47.35542026238097,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 0.5267691801276404,
+     "tropical": 68.4380928403072
+    },
+    "Surya": {
+     "degree_in_sign": 7.269214184263195,
+     "nakshatra": "Ashwini",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 7.269214184263195,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.975543076221745,
+     "tropical": 28.351886762189434
+    }
+   },
+   "jd_ut": 2378969.411876,
+   "kind": "station",
+   "label": "saturn_station_2378969",
+   "utc": "1801-04-18T21:53:06",
+   "why": "saturn within hours of a station"
+  },
+  {
+   "ayanamsha_lahiri": 21.08535965319207,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 8.129322265624864,
+     "nakshatra": "Pushya",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 98.12932226562486,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 1.4721542082980676,
+     "tropical": 119.21468191881694
+    },
+    "Chandra": {
+     "degree_in_sign": 12.095617663094856,
+     "nakshatra": "Shravana",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 282.09561766309486,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 15.099482287061191,
+     "tropical": 303.18097731628694
+    },
+    "Guru": {
+     "degree_in_sign": 15.517520827360741,
+     "nakshatra": "Pushya",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 105.51752082736074,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.2033678215834924,
+     "tropical": 126.60288048055281
+    },
+    "Mangal": {
+     "degree_in_sign": 23.28022189697235,
+     "nakshatra": "Ashlesha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 113.28022189697235,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.6117514341416969,
+     "tropical": 134.36558155016442
+    },
+    "Shani": {
+     "degree_in_sign": 0.005104659176097925,
+     "nakshatra": "Magha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 120.0051046591761,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.1021547117918953,
+     "tropical": 141.09046431236817
+    },
+    "Shukra": {
+     "degree_in_sign": 7.657125892746741,
+     "nakshatra": "Krittika",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 37.65712589274674,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 0.37495227918978924,
+     "tropical": 58.74248554593881
+    },
+    "Surya": {
+     "degree_in_sign": 14.868145517785209,
+     "nakshatra": "Ardra",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 74.86814551778521,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.9529811176174271,
+     "tropical": 95.95350517097728
+    }
+   },
+   "jd_ut": 2379039.733329,
+   "kind": "sign_boundary",
+   "label": "saturn_signchange_2379040",
+   "utc": "1801-06-28T05:35:59",
+   "why": "saturn just past a sidereal sign boundary"
+  },
+  {
+   "ayanamsha_lahiri": 21.086940325793762,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 21.469039159038772,
+     "nakshatra": "Ashlesha",
+     "pada": 2,
+     "retrograde": true,
+     "sidereal": 111.46903915903877,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.7487770482953379,
+     "tropical": 132.55597948483253
+    },
+    "Chandra": {
+     "degree_in_sign": 13.298173886742845,
+     "nakshatra": "Pushya",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 103.29817388674284,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 11.907108930993084,
+     "tropical": 124.3851142125366
+    },
+    "Guru": {
+     "degree_in_sign": 24.3797741930438,
+     "nakshatra": "Ashlesha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 114.3797741930438,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.21945942543251473,
+     "tropical": 135.46671451883756
+    },
+    "Mangal": {
+     "degree_in_sign": 18.97203345195331,
+     "nakshatra": "Purva Phalguni",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 138.9720334519533,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.6310809866538426,
+     "tropical": 160.05897377774707
+    },
+    "Shani": {
+     "degree_in_sign": 4.821958394169968,
+     "nakshatra": "Magha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 124.82195839416997,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.1259405944848911,
+     "tropical": 145.90889871996373
+    },
+    "Shukra": {
+     "degree_in_sign": 8.740150475849902,
+     "nakshatra": "Ardra",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 68.7401504758499,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.9808330548800436,
+     "tropical": 89.82709080164366
+    },
+    "Surya": {
+     "degree_in_sign": 24.379774127413157,
+     "nakshatra": "Ashlesha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 114.37977412741316,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.9598573386392434,
+     "tropical": 135.46671445320692
+    }
+   },
+   "jd_ut": 2379081.099911,
+   "kind": "conjunction",
+   "label": "jupiter_conjunction_2379081",
+   "utc": "1801-08-08T14:23:52",
+   "why": "jupiter in conjunction with the Sun"
+  },
+  {
+   "ayanamsha_lahiri": 21.08741818575449,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 18.890280157355065,
+     "nakshatra": "Ashlesha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 108.89028015735506,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.524699254448627,
+     "tropical": 129.97769834310955
+    },
+    "Chandra": {
+     "degree_in_sign": 27.031063395792955,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 267.03106339579296,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 14.915020887337958,
+     "tropical": 288.1184815815474
+    },
+    "Guru": {
+     "degree_in_sign": 27.118451434198406,
+     "nakshatra": "Ashlesha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 117.1184514341984,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.21794010449451104,
+     "tropical": 138.2058696199529
+    },
+    "Mangal": {
+     "degree_in_sign": 26.903923510074748,
+     "nakshatra": "Uttara Phalguni",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 146.90392351007475,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.6375189372842801,
+     "tropical": 167.99134169582925
+    },
+    "Shani": {
+     "degree_in_sign": 6.407444955671096,
+     "nakshatra": "Magha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 126.4074449556711,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.1272128214972275,
+     "tropical": 147.49486314142558
+    },
+    "Shukra": {
+     "degree_in_sign": 21.45689080897833,
+     "nakshatra": "Punarvasu",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 81.45689080897833,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 1.0492637183438314,
+     "tropical": 102.54430899473282
+    },
+    "Surya": {
+     "degree_in_sign": 6.407444660909945,
+     "nakshatra": "Magha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 126.40744466090995,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.9638043767992428,
+     "tropical": 147.49486284666443
+    }
+   },
+   "jd_ut": 2379093.605617,
+   "kind": "conjunction",
+   "label": "saturn_conjunction_2379094",
+   "utc": "1801-08-21T02:32:05",
+   "why": "saturn in conjunction with the Sun"
+  },
+  {
+   "ayanamsha_lahiri": 21.08793075312999,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 5.6382328235085595,
+     "nakshatra": "Magha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 125.63823282350856,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 1.770658138854402,
+     "tropical": 146.72616357663856
+    },
+    "Chandra": {
+     "degree_in_sign": 27.151748073533838,
+     "nakshatra": "Punarvasu",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 87.15174807353384,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 11.855727854060655,
+     "tropical": 108.23967882666383
+    },
+    "Guru": {
+     "degree_in_sign": 0.010640460545886299,
+     "nakshatra": "Magha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 120.01064046054589,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.2128360292332909,
+     "tropical": 141.09857121367588
+    },
+    "Mangal": {
+     "degree_in_sign": 5.504934768899915,
+     "nakshatra": "Uttara Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 155.50493476889991,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.6452517734444859,
+     "tropical": 176.5928655220299
+    },
+    "Shani": {
+     "degree_in_sign": 8.106668065957308,
+     "nakshatra": "Magha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 128.1066680659573,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.12571299407982403,
+     "tropical": 149.1945988190873
+    },
+    "Shukra": {
+     "degree_in_sign": 5.91556785834635,
+     "nakshatra": "Pushya",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 95.91556785834635,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 1.1037872218596978,
+     "tropical": 117.00349861147633
+    },
+    "Surya": {
+     "degree_in_sign": 19.375855429538916,
+     "nakshatra": "Purva Phalguni",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 139.37585542953892,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.9703374316009077,
+     "tropical": 160.4637861826689
+    }
+   },
+   "jd_ut": 2379107.019622,
+   "kind": "sign_boundary",
+   "label": "jupiter_signchange_2379107",
+   "utc": "1801-09-03T12:28:15",
+   "why": "jupiter just past a sidereal sign boundary"
+  },
+  {
+   "ayanamsha_lahiri": 21.089273112756427,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 7.515836908115091,
+     "nakshatra": "Swati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 187.5158369081151,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.5443780769777606,
+     "tropical": 208.6051100208715
+    },
+    "Chandra": {
+     "degree_in_sign": 3.7351234198539487,
+     "nakshatra": "Chitra",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 183.73512341985395,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 13.259194453774448,
+     "tropical": 204.82439653261036
+    },
+    "Guru": {
+     "degree_in_sign": 6.997308145989464,
+     "nakshatra": "Magha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 126.99730814598946,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.18015274960724298,
+     "tropical": 148.0865812587459
+    },
+    "Mangal": {
+     "degree_in_sign": 28.5537047817173,
+     "nakshatra": "Chitra",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 178.5537047817173,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.6677651794998406,
+     "tropical": 199.64297789447372
+    },
+    "Shani": {
+     "degree_in_sign": 12.239830106350496,
+     "nakshatra": "Magha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 132.2398301063505,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.10586129374259091,
+     "tropical": 153.3291032191069
+    },
+    "Shukra": {
+     "degree_in_sign": 16.384707385419233,
+     "nakshatra": "Purva Phalguni",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 136.38470738541923,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 1.1912476426364815,
+     "tropical": 157.47398049817565
+    },
+    "Surya": {
+     "degree_in_sign": 23.782121177491575,
+     "nakshatra": "Chitra",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 173.78212117749158,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.9895285448296866,
+     "tropical": 194.871394290248
+    }
+   },
+   "jd_ut": 2379142.149469,
+   "kind": "deterministic_random",
+   "label": "random_11",
+   "utc": "1801-10-08T15:35:14",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 21.09287837873677,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 18.543877685791983,
+     "nakshatra": "Purva Ashadha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 258.543877685792,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.557918272153518,
+     "tropical": 279.63675606452875
+    },
+    "Chandra": {
+     "degree_in_sign": 28.934604840150996,
+     "nakshatra": "Revati",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 358.934604840151,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 13.317919380906563,
+     "tropical": 20.027483218887756
+    },
+    "Guru": {
+     "degree_in_sign": 13.98150661324189,
+     "nakshatra": "Purva Phalguni",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 133.9815066132419,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.06353708224399868,
+     "tropical": 155.07438499197866
+    },
+    "Mangal": {
+     "degree_in_sign": 4.768177815905858,
+     "nakshatra": "Mula",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 244.76817781590586,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.7357681335817736,
+     "tropical": 265.86105619464263
+    },
+    "Shani": {
+     "degree_in_sign": 15.929680326799996,
+     "nakshatra": "Purva Phalguni",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 135.9296803268,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.04152772434518219,
+     "tropical": 157.02255870553677
+    },
+    "Shukra": {
+     "degree_in_sign": 13.040682837870747,
+     "nakshatra": "Mula",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 253.04068283787075,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.2542506232184891,
+     "tropical": 274.1335612166075
+    },
+    "Surya": {
+     "degree_in_sign": 29.038761743369093,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 269.0387617433691,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.018850438573276,
+     "tropical": 290.13164012210586
+    }
+   },
+   "jd_ut": 2379236.5,
+   "kind": "retrograde",
+   "label": "jupiter_retro_2379236",
+   "utc": "1802-01-11T00:00:00",
+   "why": "jupiter retrograde"
+  },
+  {
+   "ayanamsha_lahiri": 21.09287837873677,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 18.543877685791983,
+     "nakshatra": "Purva Ashadha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 258.543877685792,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.557918272153518,
+     "tropical": 279.63675606452875
+    },
+    "Chandra": {
+     "degree_in_sign": 28.934604840150996,
+     "nakshatra": "Revati",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 358.934604840151,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 13.317919380906563,
+     "tropical": 20.027483218887756
+    },
+    "Guru": {
+     "degree_in_sign": 13.98150661324189,
+     "nakshatra": "Purva Phalguni",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 133.9815066132419,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.06353708224399868,
+     "tropical": 155.07438499197866
+    },
+    "Mangal": {
+     "degree_in_sign": 4.768177815905858,
+     "nakshatra": "Mula",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 244.76817781590586,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.7357681335817736,
+     "tropical": 265.86105619464263
+    },
+    "Shani": {
+     "degree_in_sign": 15.929680326799996,
+     "nakshatra": "Purva Phalguni",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 135.9296803268,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.04152772434518219,
+     "tropical": 157.02255870553677
+    },
+    "Shukra": {
+     "degree_in_sign": 13.040682837870747,
+     "nakshatra": "Mula",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 253.04068283787075,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.2542506232184891,
+     "tropical": 274.1335612166075
+    },
+    "Surya": {
+     "degree_in_sign": 29.038761743369093,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 269.0387617433691,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.018850438573276,
+     "tropical": 290.13164012210586
+    }
+   },
+   "jd_ut": 2379236.5,
+   "kind": "retrograde",
+   "label": "saturn_retro_2379236",
+   "utc": "1802-01-11T00:00:00",
+   "why": "saturn retrograde"
+  },
+  {
+   "ayanamsha_lahiri": 21.09440950271567,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 26.60804334147366,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 326.60804334147366,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.466402985210958,
+     "tropical": 347.70245284418934
+    },
+    "Chandra": {
+     "degree_in_sign": 5.334167133987222,
+     "nakshatra": "Uttara Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 155.33416713398722,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 12.072956274456919,
+     "tropical": 176.4285766367029
+    },
+    "Guru": {
+     "degree_in_sign": 9.66665980940951,
+     "nakshatra": "Magha",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 129.6666598094095,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.1315975085238441,
+     "tropical": 150.7610693121252
+    },
+    "Mangal": {
+     "degree_in_sign": 4.738986170721205,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 274.7389861707212,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 0.7586468570462596,
+     "tropical": 295.8333956734369
+    },
+    "Shani": {
+     "degree_in_sign": 13.293583654661091,
+     "nakshatra": "Magha",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 133.2935836546611,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.08015572505866389,
+     "tropical": 154.38799315737677
+    },
+    "Shukra": {
+     "degree_in_sign": 3.253106134811844,
+     "nakshatra": "Dhanishtha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 303.25310613481184,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.2506061935570836,
+     "tropical": 324.3475156375275
+    },
+    "Surya": {
+     "degree_in_sign": 9.666659501101549,
+     "nakshatra": "Shatabhisha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 309.66665950110155,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.0065048967578862,
+     "tropical": 330.7610690038172
+    }
+   },
+   "jd_ut": 2379276.569788,
+   "kind": "opposition",
+   "label": "jupiter_opposition_2379277",
+   "utc": "1802-02-20T01:40:29",
+   "why": "jupiter at opposition to the Sun"
+  },
+  {
+   "ayanamsha_lahiri": 21.10297949137844,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 7.933911094303966,
+     "nakshatra": "Swati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 187.93391109430397,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.4037026029546413,
+     "tropical": 209.03689058568241
+    },
+    "Chandra": {
+     "degree_in_sign": 18.497832434288057,
+     "nakshatra": "Jyeshtha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 228.49783243428806,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 12.98346340198794,
+     "tropical": 249.6008119256665
+    },
+    "Guru": {
+     "degree_in_sign": 0.010577850353712392,
+     "nakshatra": "Uttara Phalguni",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 150.0105778503537,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.2115816096470761,
+     "tropical": 171.11355734173216
+    },
+    "Mangal": {
+     "degree_in_sign": 10.482900279473682,
+     "nakshatra": "Ardra",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 70.48290027947368,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.43355419345529345,
+     "tropical": 91.58587977085213
+    },
+    "Shani": {
+     "degree_in_sign": 23.255145915020563,
+     "nakshatra": "Purva Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 143.25514591502056,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.11882354224270054,
+     "tropical": 164.358125406399
+    },
+    "Shukra": {
+     "degree_in_sign": 3.1748546998684617,
+     "nakshatra": "Vishakha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 213.17485469986846,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.0836401453348918,
+     "tropical": 234.2778341912469
+    },
+    "Surya": {
+     "degree_in_sign": 17.308991043785,
+     "nakshatra": "Hasta",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 167.308991043785,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.9856521658432799,
+     "tropical": 188.41197053516345
+    }
+   },
+   "jd_ut": 2379500.847565,
+   "kind": "sign_boundary",
+   "label": "jupiter_signchange_2379501",
+   "utc": "1802-10-02T08:20:29",
+   "why": "jupiter just past a sidereal sign boundary"
+  },
+  {
+   "ayanamsha_lahiri": 21.119397216956553,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 14.612301585357073,
+     "nakshatra": "Anuradha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 224.61230158535707,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.561631331842386,
+     "tropical": 245.73169880231362
+    },
+    "Chandra": {
+     "degree_in_sign": 21.465518745538134,
+     "nakshatra": "Purva Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 141.46551874553813,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 12.109508646254353,
+     "tropical": 162.58491596249468
+    },
+    "Guru": {
+     "degree_in_sign": 6.751251552672272,
+     "nakshatra": "Swati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 186.75125155267227,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.18207339456874844,
+     "tropical": 207.87064876962881
+    },
+    "Mangal": {
+     "degree_in_sign": 22.481064686625274,
+     "nakshatra": "Jyeshtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 232.48106468662527,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 0.7361995699575186,
+     "tropical": 253.60046190358182
+    },
+    "Shani": {
+     "degree_in_sign": 11.149451016812975,
+     "nakshatra": "Hasta",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 161.14945101681298,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.06591701297033498,
+     "tropical": 182.26884823376952
+    },
+    "Shukra": {
+     "degree_in_sign": 4.865256707936396,
+     "nakshatra": "Mula",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 244.8652567079364,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.2540222951379707,
+     "tropical": 265.98465392489294
+    },
+    "Surya": {
+     "degree_in_sign": 21.848481771950674,
+     "nakshatra": "Jyeshtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 231.84848177195067,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.0158308619363976,
+     "tropical": 252.96787898890722
+    }
+   },
+   "jd_ut": 2379930.5,
+   "kind": "direct",
+   "label": "jupiter_direct_2379930",
+   "utc": "1803-12-06T00:00:00",
+   "why": "jupiter in clear direct motion"
+  },
+  {
+   "ayanamsha_lahiri": 21.119397216956553,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 14.612301585357073,
+     "nakshatra": "Anuradha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 224.61230158535707,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.561631331842386,
+     "tropical": 245.73169880231362
+    },
+    "Chandra": {
+     "degree_in_sign": 21.465518745538134,
+     "nakshatra": "Purva Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 141.46551874553813,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 12.109508646254353,
+     "tropical": 162.58491596249468
+    },
+    "Guru": {
+     "degree_in_sign": 6.751251552672272,
+     "nakshatra": "Swati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 186.75125155267227,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.18207339456874844,
+     "tropical": 207.87064876962881
+    },
+    "Mangal": {
+     "degree_in_sign": 22.481064686625274,
+     "nakshatra": "Jyeshtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 232.48106468662527,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 0.7361995699575186,
+     "tropical": 253.60046190358182
+    },
+    "Shani": {
+     "degree_in_sign": 11.149451016812975,
+     "nakshatra": "Hasta",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 161.14945101681298,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.06591701297033498,
+     "tropical": 182.26884823376952
+    },
+    "Shukra": {
+     "degree_in_sign": 4.865256707936396,
+     "nakshatra": "Mula",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 244.8652567079364,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.2540222951379707,
+     "tropical": 265.98465392489294
+    },
+    "Surya": {
+     "degree_in_sign": 21.848481771950674,
+     "nakshatra": "Jyeshtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 231.84848177195067,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.0158308619363976,
+     "tropical": 252.96787898890722
+    }
+   },
+   "jd_ut": 2379930.5,
+   "kind": "direct",
+   "label": "saturn_direct_2379930",
+   "utc": "1803-12-06T00:00:00",
+   "why": "saturn in clear direct motion"
+  },
+  {
+   "ayanamsha_lahiri": 21.208661102652332,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 19.585102633135566,
+     "nakshatra": "Bharani",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 19.585102633135566,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 2.1577253636931895,
+     "tropical": 40.7937637357879
+    },
+    "Chandra": {
+     "degree_in_sign": 20.51536527002679,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 320.5153652700268,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 13.649705470398256,
+     "tropical": 341.72402637267913
+    },
+    "Guru": {
+     "degree_in_sign": 16.698640011173968,
+     "nakshatra": "Bharani",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 16.698640011173968,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.2391065988791071,
+     "tropical": 37.9073011138263
+    },
+    "Mangal": {
+     "degree_in_sign": 29.47888918664029,
+     "nakshatra": "Krittika",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 29.47888918664029,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.7125252903498978,
+     "tropical": 50.68755028929262
+    },
+    "Shani": {
+     "degree_in_sign": 23.15162108160476,
+     "nakshatra": "Jyeshtha",
+     "pada": 2,
+     "retrograde": true,
+     "sidereal": 233.15162108160476,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": -0.051813028739696836,
+     "tropical": 254.3602821842571
+    },
+    "Shukra": {
+     "degree_in_sign": 28.18103307664467,
+     "nakshatra": "Krittika",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 28.18103307664467,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 1.2311568672526152,
+     "tropical": 49.389694179297
+    },
+    "Surya": {
+     "degree_in_sign": 16.78052963993704,
+     "nakshatra": "Bharani",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 16.78052963993704,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.9706049143930952,
+     "tropical": 37.98919074258937
+    }
+   },
+   "jd_ut": 2382266.5,
+   "kind": "retrograde",
+   "label": "saturn_retro_2382266",
+   "utc": "1810-04-29T00:00:00",
+   "why": "saturn retrograde"
+  },
+  {
+   "ayanamsha_lahiri": 21.214393030481638,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 6.797962315041133,
+     "nakshatra": "Swati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 186.79796231504113,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.8048972391450171,
+     "tropical": 208.01235534552276
+    },
+    "Chandra": {
+     "degree_in_sign": 10.382611343037837,
+     "nakshatra": "Magha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 130.38261134303784,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 12.10765788445825,
+     "tropical": 151.59700437351947
+    },
+    "Guru": {
+     "degree_in_sign": 10.15279029625787,
+     "nakshatra": "Rohini",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 40.15279029625787,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": -0.0177114548077167,
+     "tropical": 61.36718332673951
+    },
+    "Mangal": {
+     "degree_in_sign": 8.893668520823468,
+     "nakshatra": "Magha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 128.89366852082347,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.6252977799393978,
+     "tropical": 150.1080615513051
+    },
+    "Shani": {
+     "degree_in_sign": 18.943205252538917,
+     "nakshatra": "Jyeshtha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 228.94320525253892,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 0.06609879214123647,
+     "tropical": 250.15759828302055
+    },
+    "Shukra": {
+     "degree_in_sign": 26.431923922121427,
+     "nakshatra": "Vishakha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 206.43192392212143,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.0941807668669943,
+     "tropical": 227.64631695260306
+    },
+    "Surya": {
+     "degree_in_sign": 11.00968687770856,
+     "nakshatra": "Hasta",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 161.00968687770856,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.9820705753741957,
+     "tropical": 182.2240799081902
+    }
+   },
+   "jd_ut": 2382416.5,
+   "kind": "retrograde",
+   "label": "jupiter_retro_2382416",
+   "utc": "1810-09-26T00:00:00",
+   "why": "jupiter retrograde"
+  },
+  {
+   "ayanamsha_lahiri": 21.234034515087387,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 18.498526454369994,
+     "nakshatra": "Shravana",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 288.49852645437,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.4162104286717814,
+     "tropical": 309.7325609694574
+    },
+    "Chandra": {
+     "degree_in_sign": 11.718955064482643,
+     "nakshatra": "Ardra",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 71.71895506448264,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 12.838707269377101,
+     "tropical": 92.95298957957003
+    },
+    "Guru": {
+     "degree_in_sign": 4.967169872891091,
+     "nakshatra": "Mrigashira",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 64.96716987289109,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.003476028549744182,
+     "tropical": 86.20120438797848
+    },
+    "Mangal": {
+     "degree_in_sign": 26.68095183424134,
+     "nakshatra": "Revati",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 356.68095183424134,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.7271499448455068,
+     "tropical": 17.91498634932871
+    },
+    "Shani": {
+     "degree_in_sign": 14.398703191806135,
+     "nakshatra": "Purva Ashadha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 254.39870319180613,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.08137654301039567,
+     "tropical": 275.6327377068935
+    },
+    "Shukra": {
+     "degree_in_sign": 12.436777356930406,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 342.4367773569304,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.2220354233803703,
+     "tropical": 3.6708118720177985
+    },
+    "Surya": {
+     "degree_in_sign": 11.038697048063739,
+     "nakshatra": "Shatabhisha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 311.03869704806374,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.0061392432538856,
+     "tropical": 332.2727315631511
+    }
+   },
+   "jd_ut": 2382930.5,
+   "kind": "direct",
+   "label": "saturn_direct_2382930",
+   "utc": "1812-02-22T00:00:00",
+   "why": "saturn in clear direct motion"
+  },
+  {
+   "ayanamsha_lahiri": 21.241677148973356,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 4.039513539457602,
+     "nakshatra": "Uttara Phalguni",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 154.0395135394576,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": -0.87577094259334,
+     "tropical": 175.28119068843097
+    },
+    "Chandra": {
+     "degree_in_sign": 29.91471352011078,
+     "nakshatra": "Chitra",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 179.91471352011078,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 11.834070831379561,
+     "tropical": 201.15639066908415
+    },
+    "Guru": {
+     "degree_in_sign": 9.519125854408031,
+     "nakshatra": "Pushya",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 99.51912585440803,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.18654746755639506,
+     "tropical": 120.76080300338138
+    },
+    "Mangal": {
+     "degree_in_sign": 10.581038438462116,
+     "nakshatra": "Magha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 130.58103843846212,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.6350768216079112,
+     "tropical": 151.82271558743548
+    },
+    "Shani": {
+     "degree_in_sign": 10.145642160768233,
+     "nakshatra": "Mula",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 250.14564216076823,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.005764528025628477,
+     "tropical": 271.3873193097416
+    },
+    "Shukra": {
+     "degree_in_sign": 14.580831668769036,
+     "nakshatra": "Pushya",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 104.58083166876904,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.5219602349917684,
+     "tropical": 125.82250881774239
+    },
+    "Surya": {
+     "degree_in_sign": 24.87394902517849,
+     "nakshatra": "Purva Phalguni",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 144.8739490251785,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.9730958823022451,
+     "tropical": 166.11562617415186
+    }
+   },
+   "jd_ut": 2383130.5,
+   "kind": "direct",
+   "label": "jupiter_direct_2383130",
+   "utc": "1812-09-09T00:00:00",
+   "why": "jupiter in clear direct motion"
+  },
+  {
+   "ayanamsha_lahiri": 21.313784122152985,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 12.314060504378801,
+     "nakshatra": "Swati",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 192.3140605043788,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.593413198411848,
+     "tropical": 213.62784462653178
+    },
+    "Chandra": {
+     "degree_in_sign": 22.976585114862814,
+     "nakshatra": "Vishakha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 202.97658511486281,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 15.223300120231302,
+     "tropical": 224.2903692370158
+    },
+    "Guru": {
+     "degree_in_sign": 22.71530333442115,
+     "nakshatra": "Jyeshtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 232.71530333442115,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 0.2127965040818499,
+     "tropical": 254.02908745657413
+    },
+    "Mangal": {
+     "degree_in_sign": 4.144520444177317,
+     "nakshatra": "Mrigashira",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 64.14452044417732,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": -0.1319864478358866,
+     "tropical": 85.4583045663303
+    },
+    "Shani": {
+     "degree_in_sign": 8.0260722759283,
+     "nakshatra": "Shatabhisha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 308.0260722759283,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.010060455156965818,
+     "tropical": 329.3398563980813
+    },
+    "Shukra": {
+     "degree_in_sign": 25.38760101938672,
+     "nakshatra": "Chitra",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 175.38760101938672,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 1.234984318131506,
+     "tropical": 196.7013851415397
+    },
+    "Surya": {
+     "degree_in_sign": 24.896145971540847,
+     "nakshatra": "Vishakha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 204.89614597154085,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.006286354374373,
+     "tropical": 226.20993009369383
+    }
+   },
+   "jd_ut": 2385017.442857,
+   "kind": "deterministic_random",
+   "label": "random_03",
+   "utc": "1817-11-08T22:37:42",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 21.323301626903124,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 29.96083599768798,
+     "nakshatra": "Punarvasu",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 89.96083599768798,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 2.1416945726402115,
+     "tropical": 111.28413762459111
+    },
+    "Chandra": {
+     "degree_in_sign": 4.226079116592587,
+     "nakshatra": "Mula",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 244.2260791165926,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 15.03092399717525,
+     "tropical": 265.5493807434957
+    },
+    "Guru": {
+     "degree_in_sign": 14.834429238937616,
+     "nakshatra": "Purva Ashadha",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 254.83442923893762,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": -0.11785103652383022,
+     "tropical": 276.15773086584073
+    },
+    "Mangal": {
+     "degree_in_sign": 11.566201248422459,
+     "nakshatra": "Magha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 131.56620124842246,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.6129369155513346,
+     "tropical": 152.88950287532558
+    },
+    "Shani": {
+     "degree_in_sign": 26.691145974560754,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 326.69114597456075,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": -0.026473165989822883,
+     "tropical": 348.01444760146387
+    },
+    "Shukra": {
+     "degree_in_sign": 3.5322675269003696,
+     "nakshatra": "Magha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 123.53226752690037,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 1.1954859585215216,
+     "tropical": 144.8555691538035
+    },
+    "Surya": {
+     "degree_in_sign": 1.467778497778113,
+     "nakshatra": "Punarvasu",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 91.46777849777811,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.9537802443375252,
+     "tropical": 112.79108012468123
+    }
+   },
+   "jd_ut": 2385266.5,
+   "kind": "retrograde",
+   "label": "saturn_retro_2385266",
+   "utc": "1818-07-16T00:00:00",
+   "why": "saturn retrograde"
+  },
+  {
+   "ayanamsha_lahiri": 21.33591233732394,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 7.1043728020589185,
+     "nakshatra": "Krittika",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 37.10437280205892,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 1.55235764038679,
+     "tropical": 58.44028513938286
+    },
+    "Chandra": {
+     "degree_in_sign": 5.040460109669311,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 275.0404601096693,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 14.947225428871597,
+     "tropical": 296.37637244699323
+    },
+    "Guru": {
+     "degree_in_sign": 25.811267386886243,
+     "nakshatra": "Dhanishtha",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 295.81126738688624,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": -0.01566981783685269,
+     "tropical": 317.14717972421016
+    },
+    "Mangal": {
+     "degree_in_sign": 9.640066615761228,
+     "nakshatra": "Ashwini",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 9.640066615761228,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.7385414204802221,
+     "tropical": 30.975978953085168
+    },
+    "Shani": {
+     "degree_in_sign": 8.556850785441156,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 338.55685078544116,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.05206192389327657,
+     "tropical": 359.8927631227651
+    },
+    "Shukra": {
+     "degree_in_sign": 26.383440627069284,
+     "nakshatra": "Bharani",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 26.383440627069284,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 1.1914035663295255,
+     "tropical": 47.719352964393224
+    },
+    "Surya": {
+     "degree_in_sign": 27.847776317283696,
+     "nakshatra": "Mrigashira",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 57.847776317283696,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 0.9550545751820604,
+     "tropical": 79.18368865460764
+    }
+   },
+   "jd_ut": 2385596.5,
+   "kind": "retrograde",
+   "label": "jupiter_retro_2385596",
+   "utc": "1819-06-11T00:00:00",
+   "why": "jupiter retrograde"
+  },
+  {
+   "ayanamsha_lahiri": 21.348675955817342,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 1.954095198980312,
+     "nakshatra": "Ashwini",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 1.954095198980312,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.9230624919522346,
+     "tropical": 23.302771154797654
+    },
+    "Chandra": {
+     "degree_in_sign": 26.664321557452467,
+     "nakshatra": "Revati",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 356.66432155745247,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 14.251947270806003,
+     "tropical": 18.01299751326978
+    },
+    "Guru": {
+     "degree_in_sign": 25.95668473048778,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 325.9566847304878,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.17020548996810828,
+     "tropical": 347.3053606863051
+    },
+    "Mangal": {
+     "degree_in_sign": 17.95339384557043,
+     "nakshatra": "Ashlesha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 107.95339384557043,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 0.48469878426050983,
+     "tropical": 129.30206980138777
+    },
+    "Shani": {
+     "degree_in_sign": 17.717531911946764,
+     "nakshatra": "Revati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 347.71753191194676,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.10528762360971103,
+     "tropical": 9.066207867764088
+    },
+    "Shukra": {
+     "degree_in_sign": 12.764943815435686,
+     "nakshatra": "Ardra",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 72.76494381543569,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 1.0340680873033474,
+     "tropical": 94.11361977125303
+    },
+    "Surya": {
+     "degree_in_sign": 27.854706000010644,
+     "nakshatra": "Krittika",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 27.854706000010644,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.9655210767505529,
+     "tropical": 49.203381955827986
+    }
+   },
+   "jd_ut": 2385930.5,
+   "kind": "direct",
+   "label": "saturn_direct_2385930",
+   "utc": "1820-05-10T00:00:00",
+   "why": "saturn in clear direct motion"
+  },
+  {
+   "ayanamsha_lahiri": 21.356318865689985,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 1.1724551443974462,
+     "nakshatra": "Mula",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 241.17245514439745,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.1085747674461736,
+     "tropical": 262.52877401008743
+    },
+    "Chandra": {
+     "degree_in_sign": 24.382503652424163,
+     "nakshatra": "Ashlesha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 114.38250365242416,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 12.19923748249994,
+     "tropical": 135.73882251811415
+    },
+    "Guru": {
+     "degree_in_sign": 22.551717136406864,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 322.55171713640686,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.05875002890547056,
+     "tropical": 343.9080360020969
+    },
+    "Mangal": {
+     "degree_in_sign": 24.401228018646577,
+     "nakshatra": "Jyeshtha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 234.40122801864658,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 0.7421026068014546,
+     "tropical": 255.75754688433656
+    },
+    "Shani": {
+     "degree_in_sign": 15.581125697545644,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 345.58112569754564,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": -0.024801903443583285,
+     "tropical": 6.937444563235654
+    },
+    "Shukra": {
+     "degree_in_sign": 0.9658803123951998,
+     "nakshatra": "Chitra",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 180.9658803123952,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.1837840948301452,
+     "tropical": 202.32219917808519
+    },
+    "Surya": {
+     "degree_in_sign": 12.349627319315772,
+     "nakshatra": "Anuradha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 222.34962731931577,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.012821284614455,
+     "tropical": 243.70594618500576
+    }
+   },
+   "jd_ut": 2386130.5,
+   "kind": "direct",
+   "label": "jupiter_direct_2386130",
+   "utc": "1820-11-26T00:00:00",
+   "why": "jupiter in clear direct motion"
+  },
+  {
+   "ayanamsha_lahiri": 21.711355594982457,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 1.2654976568500729,
+     "nakshatra": "Ashwini",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 1.2654976568500729,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.10111898009507354,
+     "tropical": 22.97685325183253
+    },
+    "Chandra": {
+     "degree_in_sign": 27.953981477547927,
+     "nakshatra": "Ashlesha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 117.95398147754793,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 11.900129325298483,
+     "tropical": 139.66533707253038
+    },
+    "Guru": {
+     "degree_in_sign": 29.33298760872419,
+     "nakshatra": "Krittika",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 29.33298760872419,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.23552785740872864,
+     "tropical": 51.044343203706646
+    },
+    "Mangal": {
+     "degree_in_sign": 3.569656343910019,
+     "nakshatra": "Mrigashira",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 63.56965634391002,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.6377515387215382,
+     "tropical": 85.28101193889248
+    },
+    "Shani": {
+     "degree_in_sign": 7.946270852023133,
+     "nakshatra": "Shatabhisha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 307.94627085202313,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.05953336264662012,
+     "tropical": 329.6576264470056
+    },
+    "Shukra": {
+     "degree_in_sign": 5.710002082300946,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 335.71000208230095,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9050626287134402,
+     "tropical": 357.4213576772834
+    },
+    "Surya": {
+     "degree_in_sign": 21.494833806486987,
+     "nakshatra": "Bharani",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 21.494833806486987,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.9681934432177834,
+     "tropical": 43.206189401469445
+    }
+   },
+   "jd_ut": 2395420.58582,
+   "kind": "deterministic_random",
+   "label": "random_08",
+   "utc": "1846-05-04T02:03:34",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 21.765298710541217,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 7.385353637692049,
+     "nakshatra": "Shatabhisha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 307.38535363769205,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.34288673535824,
+     "tropical": 329.1506523482333
+    },
+    "Chandra": {
+     "degree_in_sign": 21.03372861087604,
+     "nakshatra": "Revati",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 351.03372861087604,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 13.096040709624639,
+     "tropical": 12.799027321417261
+    },
+    "Guru": {
+     "degree_in_sign": 25.55116323910829,
+     "nakshatra": "Purva Phalguni",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 145.5511632391083,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.12856318442536266,
+     "tropical": 167.31646194964952
+    },
+    "Mangal": {
+     "degree_in_sign": 8.24698235239633,
+     "nakshatra": "Ardra",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 68.24698235239633,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.4070082515643628,
+     "tropical": 90.01228106293755
+    },
+    "Shani": {
+     "degree_in_sign": 17.036534152466345,
+     "nakshatra": "Revati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 347.03653415246634,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.1231724629516735,
+     "tropical": 8.801832863007588
+    },
+    "Shukra": {
+     "degree_in_sign": 5.897425384319888,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 335.8974253843199,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.2455854338125072,
+     "tropical": 357.6627240948611
+    },
+    "Surya": {
+     "degree_in_sign": 2.8095418237791137,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 332.8095418237791,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9953446284870175,
+     "tropical": 354.57484053432034
+    }
+   },
+   "jd_ut": 2396832.0,
+   "kind": "anchor_year",
+   "label": "anchor_1850",
+   "utc": "1850-03-15T12:00:00",
+   "why": "Anchor year required by the V1.2 accuracy brief"
+  },
+  {
+   "ayanamsha_lahiri": 22.086998972289148,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 28.03094013368218,
+     "nakshatra": "Revati",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 358.0309401336822,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": -0.4542362745043283,
+     "tropical": 20.117939105971306
+    },
+    "Chandra": {
+     "degree_in_sign": 24.68569252785093,
+     "nakshatra": "Bharani",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 24.68569252785093,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 13.791208750848241,
+     "tropical": 46.77269150014008
+    },
+    "Guru": {
+     "degree_in_sign": 29.83971598370762,
+     "nakshatra": "Ashlesha",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 119.83971598370762,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": -0.05318863855846317,
+     "tropical": 141.92671495599677
+    },
+    "Mangal": {
+     "degree_in_sign": 22.654183212275655,
+     "nakshatra": "Vishakha",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 202.65418321227565,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": -0.11874866885114772,
+     "tropical": 224.7411821845648
+    },
+    "Shani": {
+     "degree_in_sign": 9.232479019978882,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 279.2324790199789,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 0.064806183981892,
+     "tropical": 301.31947799226805
+    },
+    "Shukra": {
+     "degree_in_sign": 27.816693817087117,
+     "nakshatra": "Krittika",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 27.816693817087117,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.47749346715377483,
+     "tropical": 49.903692789376265
+    },
+    "Surya": {
+     "degree_in_sign": 18.508413792526767,
+     "nakshatra": "Revati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 348.50841379252677,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9864333704627238,
+     "tropical": 10.595412764815915
+    }
+   },
+   "jd_ut": 2405248.745087,
+   "kind": "deterministic_random",
+   "label": "random_10",
+   "utc": "1873-03-31T05:52:55",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 22.15162766118528,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 3.0071257142344336,
+     "nakshatra": "Vishakha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 213.00712571423443,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.5821047063212326,
+     "tropical": 235.1587533754197
+    },
+    "Chandra": {
+     "degree_in_sign": 4.7598060690816055,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 334.7598060690816,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 12.009020296793974,
+     "tropical": 356.9114337302669
+    },
+    "Guru": {
+     "degree_in_sign": 11.797114208693586,
+     "nakshatra": "Mula",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 251.79711420869359,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.2020620736561332,
+     "tropical": 273.94874186987886
+    },
+    "Mangal": {
+     "degree_in_sign": 26.14540469581442,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 326.1454046958144,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.41834147214567646,
+     "tropical": 348.2970323569997
+    },
+    "Shani": {
+     "degree_in_sign": 21.45983675595795,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 321.45983675595795,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": -0.0014571551693062176,
+     "tropical": 343.6114644171432
+    },
+    "Shukra": {
+     "degree_in_sign": 17.227354337056738,
+     "nakshatra": "Purva Ashadha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 257.22735433705674,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.1269751471176397,
+     "tropical": 279.378981998242
+    },
+    "Surya": {
+     "degree_in_sign": 1.6646661026622098,
+     "nakshatra": "Vishakha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 211.6646661026622,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.008531701487064,
+     "tropical": 233.81629376384748
+    }
+   },
+   "jd_ut": 2406939.542895,
+   "kind": "deterministic_random",
+   "label": "random_07",
+   "utc": "1877-11-16T01:01:46",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 22.463340343844582,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 16.702601031310223,
+     "nakshatra": "Revati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 346.7026010313102,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.007974109374430657,
+     "tropical": 9.165941375154812
+    },
+    "Chandra": {
+     "degree_in_sign": 22.832331619234424,
+     "nakshatra": "Purva Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 142.83233161923442,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 11.8793859864944,
+     "tropical": 165.295671963079
+    },
+    "Guru": {
+     "degree_in_sign": 18.166130356519545,
+     "nakshatra": "Jyeshtha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 228.16613035651955,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 0.03838941938157691,
+     "tropical": 250.62947070036412
+    },
+    "Mangal": {
+     "degree_in_sign": 19.016342300499502,
+     "nakshatra": "Shatabhisha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 319.0163423004995,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.7862919733502814,
+     "tropical": 341.4796826443441
+    },
+    "Shani": {
+     "degree_in_sign": 11.851340943795577,
+     "nakshatra": "Mula",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 251.85134094379558,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.047753697073391325,
+     "tropical": 274.31468128764016
+    },
+    "Shukra": {
+     "degree_in_sign": 13.060803294962266,
+     "nakshatra": "Ashwini",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 13.060803294962266,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 1.1588244257515532,
+     "tropical": 35.52414363880685
+    },
+    "Surya": {
+     "degree_in_sign": 2.0029537664854047,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 332.0029537664854,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9952066783893136,
+     "tropical": 354.46629411033
+    }
+   },
+   "jd_ut": 2415094.0,
+   "kind": "anchor_year",
+   "label": "anchor_1900",
+   "utc": "1900-03-15T12:00:00",
+   "why": "Anchor year required by the V1.2 accuracy brief"
+  },
+  {
+   "ayanamsha_lahiri": 22.765351466557938,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 14.76049787863846,
+     "nakshatra": "Swati",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 194.76049787863846,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": -1.294605882986975,
+     "tropical": 217.5258493451964
+    },
+    "Chandra": {
+     "degree_in_sign": 19.96507038365516,
+     "nakshatra": "Swati",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 199.96507038365516,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 13.755365553352007,
+     "tropical": 222.7304218502131
+    },
+    "Guru": {
+     "degree_in_sign": 14.712836530875364,
+     "nakshatra": "Hasta",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 164.71283653087536,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.20115071428712208,
+     "tropical": 187.4781879974333
+    },
+    "Mangal": {
+     "degree_in_sign": 3.370442573810493,
+     "nakshatra": "Uttara Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 153.3704425738105,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.6168688059351971,
+     "tropical": 176.13579404036844
+    },
+    "Shani": {
+     "degree_in_sign": 9.997445702461334,
+     "nakshatra": "Uttara Phalguni",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 159.99744570246133,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.10968087021720263,
+     "tropical": 182.76279716901928
+    },
+    "Shukra": {
+     "degree_in_sign": 20.439999637548652,
+     "nakshatra": "Hasta",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 170.43999963754865,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 1.2419144657549643,
+     "tropical": 193.2053511041066
+    },
+    "Surya": {
+     "degree_in_sign": 14.664645431790092,
+     "nakshatra": "Swati",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 194.6646454317901,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.0009350354921769,
+     "tropical": 217.42999689834804
+    }
+   },
+   "jd_ut": 2422993.898724,
+   "kind": "deterministic_random",
+   "label": "random_01",
+   "utc": "1921-10-31T09:34:09",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 22.79542852483289,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 1.2107867298652195,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 271.2107867298652,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.078309846566026,
+     "tropical": 294.00621525469813
+    },
+    "Chandra": {
+     "degree_in_sign": 25.12403514052363,
+     "nakshatra": "Ashlesha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 115.12403514052363,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 12.854097663284975,
+     "tropical": 137.91946366535652
+    },
+    "Guru": {
+     "degree_in_sign": 14.282592271450426,
+     "nakshatra": "Anuradha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 224.28259227145043,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 0.2104873656049548,
+     "tropical": 247.0780207962833
+    },
+    "Mangal": {
+     "degree_in_sign": 21.980760106804468,
+     "nakshatra": "Vishakha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 201.98076010680447,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.6426152205015424,
+     "tropical": 224.77618863163735
+    },
+    "Shani": {
+     "degree_in_sign": 7.750770992428613,
+     "nakshatra": "Swati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 187.7507709924286,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.0744829260381172,
+     "tropical": 210.5461995172615
+    },
+    "Shukra": {
+     "degree_in_sign": 8.158068905592813,
+     "nakshatra": "Uttara Ashadha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 278.1580689055928,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 1.2424667730241772,
+     "tropical": 300.9534974304257
+    },
+    "Surya": {
+     "degree_in_sign": 11.515672541223097,
+     "nakshatra": "Mula",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 251.5156725412231,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 1.0188875646990803,
+     "tropical": 274.311101066056
+    }
+   },
+   "jd_ut": 2423780.60251,
+   "kind": "deterministic_random",
+   "label": "random_04",
+   "utc": "1923-12-27T02:27:36",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 23.161535513172698,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 19.7288289083981,
+     "nakshatra": "Shatabhisha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 319.7288289083981,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.7745602167941763,
+     "tropical": 342.8903644215708
+    },
+    "Chandra": {
+     "degree_in_sign": 25.231987906344955,
+     "nakshatra": "Dhanishtha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 295.23198790634495,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 12.768622096139076,
+     "tropical": 318.39352341951763
+    },
+    "Guru": {
+     "degree_in_sign": 0.5132301240835204,
+     "nakshatra": "Dhanishtha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 300.5132301240835,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.22195240242975398,
+     "tropical": 323.6747656372562
+    },
+    "Mangal": {
+     "degree_in_sign": 11.80600697268946,
+     "nakshatra": "Hasta",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 161.80600697268946,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": -0.36061915805099054,
+     "tropical": 184.96754248586217
+    },
+    "Shani": {
+     "degree_in_sign": 22.231378531193002,
+     "nakshatra": "Purva Phalguni",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 142.231378531193,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.07839143781294464,
+     "tropical": 165.3929140443657
+    },
+    "Shukra": {
+     "degree_in_sign": 18.532158313224897,
+     "nakshatra": "Shravana",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 288.5321583132249,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 0.6706087743823261,
+     "tropical": 311.6936938263976
+    },
+    "Surya": {
+     "degree_in_sign": 1.1763605680042701,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 331.17636056800427,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9964557167891523,
+     "tropical": 354.33789608117695
+    }
+   },
+   "jd_ut": 2433356.0,
+   "kind": "anchor_year",
+   "label": "anchor_1950",
+   "utc": "1950-03-15T12:00:00",
+   "why": "Anchor year required by the V1.2 accuracy brief"
+  },
+  {
+   "ayanamsha_lahiri": 23.387206343505625,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 11.404223396620473,
+     "nakshatra": "Ashwini",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 11.404223396620473,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 1.8358141100756677,
+     "tropical": 34.7914297401261
+    },
+    "Chandra": {
+     "degree_in_sign": 25.725123404491853,
+     "nakshatra": "Dhanishtha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 295.72512340449185,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 11.934275160897316,
+     "tropical": 319.1123297479975
+    },
+    "Guru": {
+     "degree_in_sign": 7.910485897764559,
+     "nakshatra": "Ardra",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 67.91048589776456,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.19835147207330484,
+     "tropical": 91.29769224127018
+    },
+    "Mangal": {
+     "degree_in_sign": 24.637685993142036,
+     "nakshatra": "Bharani",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 24.637685993142036,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.7272065579400026,
+     "tropical": 48.02489233664766
+    },
+    "Shani": {
+     "degree_in_sign": 3.446597842698395,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 333.4465978426984,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.08850579532913382,
+     "tropical": 356.833804186204
+    },
+    "Shukra": {
+     "degree_in_sign": 14.499790845154678,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 344.4997908451547,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.1190561796739986,
+     "tropical": 7.886997188660315
+    },
+    "Surya": {
+     "degree_in_sign": 27.713553267222302,
+     "nakshatra": "Krittika",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 27.713553267222302,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.9655557222231178,
+     "tropical": 51.10075961072793
+    }
+   },
+   "jd_ut": 2439257.789972,
+   "kind": "deterministic_random",
+   "label": "random_09",
+   "utc": "1966-05-12T06:57:33",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 23.447646958636426,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 29.967552657053403,
+     "nakshatra": "Uttara Phalguni",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 149.9675526570534,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": -0.914271494280271,
+     "tropical": 173.41519961568983
+    },
+    "Chandra": {
+     "degree_in_sign": 23.029862820719416,
+     "nakshatra": "Jyeshtha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 233.02986282071942,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 13.401159454932115,
+     "tropical": 256.47750977935584
+    },
+    "Guru": {
+     "degree_in_sign": 10.38361078336834,
+     "nakshatra": "Swati",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 190.38361078336834,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.17781702846226577,
+     "tropical": 213.83125774200477
+    },
+    "Mangal": {
+     "degree_in_sign": 10.155665000067131,
+     "nakshatra": "Magha",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 130.15566500006713,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.6354850758003785,
+     "tropical": 153.60331195870356
+    },
+    "Shani": {
+     "degree_in_sign": 29.15895111399459,
+     "nakshatra": "Krittika",
+     "pada": 1,
+     "retrograde": true,
+     "sidereal": 29.15895111399459,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": -0.007648882202439099,
+     "tropical": 52.606598072631016
+    },
+    "Shukra": {
+     "degree_in_sign": 8.191504425544593,
+     "nakshatra": "Swati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 188.1915044255446,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.9051757745036834,
+     "tropical": 211.63915138418102
+    },
+    "Surya": {
+     "degree_in_sign": 22.335299489897523,
+     "nakshatra": "Purva Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 142.33529948989752,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.9713515434494392,
+     "tropical": 165.78294644853395
+    }
+   },
+   "jd_ut": 2440838.374153,
+   "kind": "deterministic_random",
+   "label": "random_06",
+   "utc": "1970-09-08T20:58:46",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 23.859922463343594,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 8.939407889369193,
+     "nakshatra": "Shatabhisha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 308.9394078893692,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.0640811840123231,
+     "tropical": 332.7993303527128
+    },
+    "Chandra": {
+     "degree_in_sign": 0.4084555288665257,
+     "nakshatra": "Punarvasu",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 90.40845552886653,
+     "sign": "Karka",
+     "sign_index": 3,
+     "speed": 14.158795777229132,
+     "tropical": 114.26837799221012
+    },
+    "Guru": {
+     "degree_in_sign": 11.717493214037418,
+     "nakshatra": "Ashwini",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 11.717493214037418,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.20973411601716205,
+     "tropical": 35.57741567738101
+    },
+    "Mangal": {
+     "degree_in_sign": 0.5613517351026864,
+     "nakshatra": "Ashwini",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 0.5613517351026864,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.7410413015415479,
+     "tropical": 24.42127419844628
+    },
+    "Shani": {
+     "degree_in_sign": 19.8692980936284,
+     "nakshatra": "Bharani",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 19.8692980936284,
+     "sign": "Mesha",
+     "sign_index": 0,
+     "speed": 0.09956320913931542,
+     "tropical": 43.729220556971995
+    },
+    "Shukra": {
+     "degree_in_sign": 8.63153407852036,
+     "nakshatra": "Shatabhisha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 308.63153407852036,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 1.2353874066440123,
+     "tropical": 332.49145654186395
+    },
+    "Surya": {
+     "degree_in_sign": 1.3506373095735285,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 331.35063730957353,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9959422659450734,
+     "tropical": 355.2105597729171
+    }
+   },
+   "jd_ut": 2451619.0,
+   "kind": "anchor_year",
+   "label": "anchor_2000",
+   "utc": "2000-03-15T12:00:00",
+   "why": "Anchor year required by the V1.2 accuracy brief"
+  },
+  {
+   "ayanamsha_lahiri": 24.22311528849258,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 15.7251781741586,
+     "nakshatra": "Shatabhisha",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 315.7251781741586,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": -0.5524205850058145,
+     "tropical": 339.9482934626512
+    },
+    "Chandra": {
+     "degree_in_sign": 16.68649580116505,
+     "nakshatra": "Shravana",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 286.68649580116505,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 12.740665016165408,
+     "tropical": 310.90961108965763
+    },
+    "Guru": {
+     "degree_in_sign": 20.89511389909464,
+     "nakshatra": "Punarvasu",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 80.89511389909464,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.014142520128107594,
+     "tropical": 105.11822918758722
+    },
+    "Mangal": {
+     "degree_in_sign": 15.942361822445093,
+     "nakshatra": "Shatabhisha",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 315.9423618224451,
+     "sign": "Kumbha",
+     "sign_index": 10,
+     "speed": 0.7870988477344563,
+     "tropical": 340.1654771109377
+    },
+    "Shani": {
+     "degree_in_sign": 9.26824637056012,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 339.2682463705601,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.12395537151728894,
+     "tropical": 3.491361659052688
+    },
+    "Shukra": {
+     "degree_in_sign": 17.02267922696035,
+     "nakshatra": "Revati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 347.02267922696035,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.2404613582609803,
+     "tropical": 11.245794515452921
+    },
+    "Surya": {
+     "degree_in_sign": 0.6851249185366441,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 330.68512491853664,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9967548030570978,
+     "tropical": 354.9082402070292
+    }
+   },
+   "jd_ut": 2461115.0,
+   "kind": "anchor_year",
+   "label": "anchor_2026",
+   "utc": "2026-03-15T12:00:00",
+   "why": "Anchor year required by the V1.2 accuracy brief"
+  },
+  {
+   "ayanamsha_lahiri": 24.23290451258009,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 21.43001452518385,
+     "nakshatra": "Vishakha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 201.43001452518385,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 1.3295278956173338,
+     "tropical": 225.66291903776394
+    },
+    "Chandra": {
+     "degree_in_sign": 5.477308756049041,
+     "nakshatra": "Mrigashira",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 65.47730875604904,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 15.076237895545903,
+     "tropical": 89.71021326862913
+    },
+    "Guru": {
+     "degree_in_sign": 2.3461317852499803,
+     "nakshatra": "Magha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 122.34613178524998,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.05296893858613978,
+     "tropical": 146.57903629783007
+    },
+    "Mangal": {
+     "degree_in_sign": 5.945776898077781,
+     "nakshatra": "Magha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 125.94577689807778,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.39687332960881233,
+     "tropical": 150.17868141065787
+    },
+    "Shani": {
+     "degree_in_sign": 13.889599874264945,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 343.88959987426495,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": -0.025927722245783304,
+     "tropical": 8.12250438684504
+    },
+    "Shukra": {
+     "degree_in_sign": 1.484397823161629,
+     "nakshatra": "Chitra",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 181.48439782316163,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.43647837035989934,
+     "tropical": 205.71730233574172
+    },
+    "Surya": {
+     "degree_in_sign": 9.93561593924062,
+     "nakshatra": "Anuradha",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 219.93561593924062,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 1.011364534032176,
+     "tropical": 244.1685204518207
+    }
+   },
+   "jd_ut": 2461370.932966,
+   "kind": "deterministic_random",
+   "label": "random_00",
+   "utc": "2026-11-26T10:23:28",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 24.438705420862163,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 22.740803198221897,
+     "nakshatra": "Purva Phalguni",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 142.7408031982219,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 1.571273064736812,
+     "tropical": 167.17950861908406
+    },
+    "Chandra": {
+     "degree_in_sign": 15.311501508548659,
+     "nakshatra": "Rohini",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 45.31150150854866,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 12.844055401024887,
+     "tropical": 69.75020692941082
+    },
+    "Guru": {
+     "degree_in_sign": 2.6722975717693203,
+     "nakshatra": "Chitra",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 182.67229757176932,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 0.15398835327426635,
+     "tropical": 207.11100299263148
+    },
+    "Mangal": {
+     "degree_in_sign": 5.515968892415174,
+     "nakshatra": "Mrigashira",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 65.51596889241517,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.6503404128209983,
+     "tropical": 89.95467431327734
+    },
+    "Shani": {
+     "degree_in_sign": 26.127908903928642,
+     "nakshatra": "Chitra",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 176.12790890392864,
+     "sign": "Kanya",
+     "sign_index": 5,
+     "speed": 0.08783168320577449,
+     "tropical": 200.5666143247908
+    },
+    "Shukra": {
+     "degree_in_sign": 29.70606489907378,
+     "nakshatra": "Punarvasu",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 89.70606489907378,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 1.1901756276897133,
+     "tropical": 114.14477031993594
+    },
+    "Surya": {
+     "degree_in_sign": 2.7193251885339293,
+     "nakshatra": "Magha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 122.71932518853393,
+     "sign": "Simha",
+     "sign_index": 4,
+     "speed": 0.9624536930789462,
+     "tropical": 147.1580306093961
+    }
+   },
+   "jd_ut": 2466751.282749,
+   "kind": "deterministic_random",
+   "label": "random_05",
+   "utc": "2041-08-19T18:47:09",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 24.53426319821091,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 14.175307282845111,
+     "nakshatra": "Rohini",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 44.17530728284511,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 0.935001805171956,
+     "tropical": 68.70957048105602
+    },
+    "Chandra": {
+     "degree_in_sign": 7.880482308652461,
+     "nakshatra": "Swati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 187.88048230865246,
+     "sign": "Tula",
+     "sign_index": 6,
+     "speed": 14.330348366618344,
+     "tropical": 212.41474550686337
+    },
+    "Guru": {
+     "degree_in_sign": 19.29198650202889,
+     "nakshatra": "Rohini",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 49.29198650202889,
+     "sign": "Vrishabha",
+     "sign_index": 1,
+     "speed": 0.2279515126408537,
+     "tropical": 73.8262497002398
+    },
+    "Mangal": {
+     "degree_in_sign": 13.461491216407921,
+     "nakshatra": "Anuradha",
+     "pada": 4,
+     "retrograde": true,
+     "sidereal": 223.46149121640792,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": -0.24912712860185832,
+     "tropical": 247.99575441461883
+    },
+    "Shani": {
+     "degree_in_sign": 19.028070481090026,
+     "nakshatra": "Purva Ashadha",
+     "pada": 2,
+     "retrograde": true,
+     "sidereal": 259.02807048109,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": -0.07114376492114134,
+     "tropical": 283.56233367930093
+    },
+    "Shukra": {
+     "degree_in_sign": 13.173257566667658,
+     "nakshatra": "Ardra",
+     "pada": 2,
+     "retrograde": false,
+     "sidereal": 73.17325756666766,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 1.2282630800808456,
+     "tropical": 97.70752076487857
+    },
+    "Surya": {
+     "degree_in_sign": 6.623686675839693,
+     "nakshatra": "Mrigashira",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 66.62368667583969,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": 0.9539868183995309,
+     "tropical": 91.1579498740506
+    }
+   },
+   "jd_ut": 2469249.376146,
+   "kind": "deterministic_random",
+   "label": "random_02",
+   "utc": "2048-06-21T21:01:39",
+   "why": "Seeded random date (seed 20260927)"
+  },
+  {
+   "ayanamsha_lahiri": 24.558424708131042,
+   "bodies": {
+    "Budha": {
+     "degree_in_sign": 10.184984734258478,
+     "nakshatra": "Uttara Bhadrapada",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 340.1849847342585,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.9473816300809386,
+     "tropical": 4.743409442389543
+    },
+    "Chandra": {
+     "degree_in_sign": 19.098021984292757,
+     "nakshatra": "Jyeshtha",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 229.09802198429276,
+     "sign": "Vrishchika",
+     "sign_index": 7,
+     "speed": 13.233568323835705,
+     "tropical": 253.6564466924238
+    },
+    "Guru": {
+     "degree_in_sign": 29.78817218651473,
+     "nakshatra": "Punarvasu",
+     "pada": 3,
+     "retrograde": true,
+     "sidereal": 89.78817218651473,
+     "sign": "Mithuna",
+     "sign_index": 2,
+     "speed": -0.015794972452186532,
+     "tropical": 114.34659689464577
+    },
+    "Mangal": {
+     "degree_in_sign": 9.242015144755783,
+     "nakshatra": "Mula",
+     "pada": 3,
+     "retrograde": false,
+     "sidereal": 249.24201514475578,
+     "sign": "Dhanu",
+     "sign_index": 8,
+     "speed": 0.6105933950251967,
+     "tropical": 273.8004398528868
+    },
+    "Shani": {
+     "degree_in_sign": 11.227541931860628,
+     "nakshatra": "Shravana",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 281.2275419318606,
+     "sign": "Makara",
+     "sign_index": 9,
+     "speed": 0.09092594386965408,
+     "tropical": 305.78596663999167
+    },
+    "Shukra": {
+     "degree_in_sign": 18.683346740821378,
+     "nakshatra": "Revati",
+     "pada": 1,
+     "retrograde": false,
+     "sidereal": 348.6833467408214,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 1.2387276820262392,
+     "tropical": 13.241771448952441
+    },
+    "Surya": {
+     "degree_in_sign": 0.5338307668891957,
+     "nakshatra": "Purva Bhadrapada",
+     "pada": 4,
+     "retrograde": false,
+     "sidereal": 330.5338307668892,
+     "sign": "Meena",
+     "sign_index": 11,
+     "speed": 0.9965764548311833,
+     "tropical": 355.09225547502024
+    }
+   },
+   "jd_ut": 2469881.0,
+   "kind": "anchor_year",
+   "label": "anchor_2050",
+   "utc": "2050-03-15T12:00:00",
+   "why": "Anchor year required by the V1.2 accuracy brief"
+  }
+ ],
+ "generator": {
+  "generated": "2026-09-27T15:28:13",
+  "note": "Independent of the theories the application implements (VSOP87A for Earth/Jupiter/Saturn, JPL Keplerian elements for Mercury/Venus/Mars, Meeus for the luminaries). The application never imports swisseph. Note that Moshier itself differs from the JPL DE series by of order an arcsecond for the outer planets, so residuals at that level are at the reference's own resolution.",
+  "random_seed": 20260927,
+  "reference": "Swiss Ephemeris (pyswisseph) SEFLG_MOSEPH",
+  "swisseph_version": "2.10.03",
+  "tool": "tools/generate_accuracy_fixture.py"
+ },
+ "statistics": {
+  "Guru": {
+   "english": "Jupiter",
+   "improvement_factor": 156.6,
+   "keplerian_max_arcmin": 6.7157,
+   "keplerian_max_arcsec": 402.94,
+   "keplerian_mean_arcsec": 202.915,
+   "keplerian_median_arcsec": 221.581,
+   "max_arcmin": 0.0429,
+   "max_arcsec": 2.574,
+   "mean_arcsec": 0.8,
+   "median_arcsec": 0.557,
+   "p95_arcsec": 2.101,
+   "samples": 51,
+   "theory": "VSOP87A"
+  },
+  "Shani": {
+   "english": "Saturn",
+   "improvement_factor": 165.0,
+   "keplerian_max_arcmin": 10.703,
+   "keplerian_max_arcsec": 642.179,
+   "keplerian_mean_arcsec": 449.89,
+   "keplerian_median_arcsec": 506.804,
+   "max_arcmin": 0.0649,
+   "max_arcsec": 3.891,
+   "mean_arcsec": 1.477,
+   "median_arcsec": 1.378,
+   "p95_arcsec": 3.664,
+   "samples": 51,
+   "theory": "VSOP87A"
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+  "_about": "Accumulated wealth. BPHS 11.3 gives the second house dhana-dhanya.",
+  "domain": {
+    "activation": {
+      "STRONGLY_ACTIVE": "Matters of accumulated wealth are strongly activated in the period examined, with indications in the birth chart, the running dasha and current transits.",
+      "ACTIVE": "Matters of accumulated wealth are active in the period examined, indicated in the birth chart and activated by the running dasha.",
+      "BACKGROUND": "The birth chart carries a standing indication about accumulated wealth that nothing in the current period is activating.",
+      "MIXED": "Matters of accumulated wealth are active in the period examined, and the indications point in both directions.",
+      "INACTIVE": "No indication about accumulated wealth is admitted under the current methodology profile."
+    }
+  }
+}

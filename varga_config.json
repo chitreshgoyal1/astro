@@ -1,0 +1,21 @@
+{
+  "_comment": "Convention selected for each Varga. Run 'python main.py --list-conventions' to see all options. Anything omitted uses the built-in Parashari default.",
+  "conventions": {
+    "D1": "standard",
+    "D2": "parashari",
+    "D3": "parashari",
+    "D4": "parashari",
+    "D7": "parashari",
+    "D9": "standard",
+    "D10": "parashari",
+    "D12": "parashari",
+    "D16": "parashari",
+    "D20": "parashari",
+    "D24": "parashari",
+    "D27": "parashari",
+    "D30": "parashari",
+    "D40": "parashari",
+    "D45": "parashari",
+    "D60": "parashari"
+  }
+}
